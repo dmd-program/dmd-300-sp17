@@ -5,5 +5,6 @@
   * [Museum Project](museum-project.md)
   * [Wearables Project](wearables-project.md)
 * [Personal mission statement](personal-mission-statement.md)
-* Learning Outcomes
+* [Learning Outcomes](learning-outcomes.md)
+* [Designers](designers.md)
 
