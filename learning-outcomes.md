@@ -7,6 +7,7 @@ synthesize concepts, theories, and applications acquired in introductory courses
   * Independent Project
     * Mimic's capstone project requirements
     * Presentation quality
+    * Emphasis on presence of design language
 * **1 major writing**
   * Find a designer in your interest area
   * Describe their work
