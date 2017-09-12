@@ -36,6 +36,8 @@ synthesize concepts, theories, and applications acquired in introductory courses
 
 1. Students will activate and maintain their public portfolios
    1. Must upload a profile picture or produce an avatar
+   2. Upload at least one project to the portfolio system and/or link to external professional portfolio websites.
+   3. Add short personal statement and bio.
 
 
 
