@@ -5,6 +5,8 @@ synthesize concepts, theories, and applications acquired in introductory courses
     * 3 team members
     * determine project based on combined interests
   * Independent Project
+    * Mimic's capstone project requirements
+    * Presentation quality
 * **1 major writing**
   * Find a designer in your interest area
   * Describe their work
