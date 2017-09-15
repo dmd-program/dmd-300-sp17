@@ -1,6 +1,6 @@
 # Concept development
 
-Simply put, a concept is the core idea (or ideas) that helps us understand why we should care. Even when not explicitly stated, it is the intellectual and practical motivation behind any endeavored project. Concepts can range from simple, subjective, and abstract to complex, hyper-specific, and didactic.
+A concept is the core idea (or set of ideas) that signify core values inherent in a project, process, or thing. Even when not explicitly stated, the concept is the intellectual and practical motivation behind any endeavored project. Concepts can range from simple, subjective, and abstract to complex, hyper-specific, and didactic.
 
 ## Synthesizing vs generating concepts
 
