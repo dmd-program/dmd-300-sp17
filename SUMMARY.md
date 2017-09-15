@@ -8,4 +8,5 @@
 * [Learning Outcomes](learning-outcomes.md)
 * [Designers](designers.md)
 * [Concept development](concept-development.md)
+* [Projects](projects.md)
 

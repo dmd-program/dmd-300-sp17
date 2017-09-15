@@ -1,0 +1,3 @@
+# Projects
+
+Projects will show work process as well as final result. Projects will be presented as PDF documents and will include sketches, journal entries/ideas...
