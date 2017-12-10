@@ -4,6 +4,10 @@ synthesize concepts, theories, and applications acquired in introductory courses
   * Team Collaboration Project
     * 3 team members
     * determine project based on combined interests
+    * Members choose roles and develop contract agreement
+    * Team's submit schedule
+    * Project Proposal:
+      - design process, and milestones, roles, outcomes.
   * Independent Project
     * Mimic's capstone project requirements
     * Presentation quality
