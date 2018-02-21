@@ -23,6 +23,8 @@ Part 1.
 
 They will create a project proposal; locate a similar project; and write an essay
 
+* Write essay accounting for **_design book_** theory and ideas.
+
 Part 2.
 
 * Produce a custom design process and timeline that will meet their needs.
