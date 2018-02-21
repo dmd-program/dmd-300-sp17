@@ -38,10 +38,14 @@ Part 2.
 Project types
 
 1. Art model - Expressive, exploratory, abstract, experimental
+    * Requirements
+        * generate themes
     * Media artists
     * Related Theory
     * Write a paper on a major artist and project
 2. Client-model - Goal driven
+    * Requirements
+        * generate themes
     * Locate major creative studio project. 
     * Write project assessment: cultural and/or scientific impact and context, break down design process and pipeline, successes and failures
 
