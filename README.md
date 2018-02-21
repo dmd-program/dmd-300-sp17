@@ -60,7 +60,8 @@ Dmd 400
 
 1. Work Statement
 2. Read capstone project requirements
-3. Read professional development requirements
+3. Professional development requirements
+    * Digital Portfolio
 4. Meet with lead faculty
 5. Project check-in 1
 6. Project check-in 2
