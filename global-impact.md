@@ -12,6 +12,9 @@ In this project, you will identify ways of solving a real global issue as a grou
 
 **Awareness campaign:**
 
+elicit donations, create empathy around issues
+
+
 * Print and Web marketing
 * Animations (Explainers, historical accounts)
 * 2D or 3D interactive experiences
