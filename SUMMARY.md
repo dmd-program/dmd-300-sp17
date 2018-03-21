@@ -10,4 +10,5 @@
 * [Designers](designers.md)
 * [Concept development](concept-development.md)
 * [Projects](projects.md)
+* [Schedule](schedule.md)
 
