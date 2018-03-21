@@ -18,3 +18,6 @@ In this project, you will identify ways of solving a real global issue as a grou
 * Film/Documentary
 * Audio Production or podcasting
 * Writing and digital publishing
+
+
+Example projects: https://www.openideo.com/case-studies/plastic-waste-solutions-in-circular-design-challenge
