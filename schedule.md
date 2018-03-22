@@ -18,7 +18,6 @@
 8. Week 8
    1. Project 1:  \(Ripping the client's brief\)
    2. Group Signups
-   3. Locate client contacts
 9. Week 9
    1. Project 2: Research
 10. Week 10
