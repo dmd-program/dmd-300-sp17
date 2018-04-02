@@ -1,3 +1,7 @@
+Petcha Kuthca - skills/interests presentation.
+
+
+
 synthesize concepts, theories, and applications acquired in introductory courses and think critically about their professional objectives.
 
 * **2 Major projects**
