@@ -7,8 +7,8 @@ synthesize concepts, theories, and applications acquired in introductory courses
     * Members choose roles and develop contract agreement
     * Team's submit schedule
     * Project Proposal:
-      - design process, and milestones, roles, outcomes.
-  * Independent Project
+      * design process, and milestones, roles, outcomes.
+  * Simultaneous Independent Project
     * Mimic's capstone project requirements
     * Presentation quality
     * Emphasis on presence of design language
