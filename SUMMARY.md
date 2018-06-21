@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [What is design?](what-is-design.md)
 * [Projects](projects.md)
   * [Museum Project](museum-project.md)
   * [Wearables Project](wearables-project.md)
@@ -11,5 +12,4 @@
 * [Concept development](concept-development.md)
 * [Projects](projects.md)
 * [Schedule](schedule.md)
-* [What is design?](what-is-design.md)
 
