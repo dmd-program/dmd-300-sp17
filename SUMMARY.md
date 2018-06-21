@@ -11,4 +11,5 @@
 * [Concept development](concept-development.md)
 * [Projects](projects.md)
 * [Schedule](schedule.md)
+* [What is design?](what-is-design.md)
 
