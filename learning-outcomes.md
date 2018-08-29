@@ -87,8 +87,9 @@ Students are provided a check-off document
 
 1. produce 2 project briefs
 2. produce example project plans
-3. produce writing assignment
+3. produce major writing assignment
 4. produce  capstone proposal assignment and check-off process
+5. all by Oct. 31
 
 
 
