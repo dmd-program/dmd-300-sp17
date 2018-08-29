@@ -83,7 +83,12 @@ Students are provided a check-off document
 * Define capstone project
   * Students will work as change agents to address a critical, real-world, local or global issue or challenge and work through the design process to complete a capstone project.
 
+**To do:**
 
+1. produce 2 project briefs
+2. produce example project plans
+3. produce writing assignment
+4. produce  capstone proposal assignment and check-off process
 
 
 
