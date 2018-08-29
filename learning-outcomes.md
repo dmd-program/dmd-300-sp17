@@ -1,6 +1,4 @@
-Petcha Kuthca - skills/interests presentation.
-
-
+**Petcha Kuthca** - skills/interests presentation.
 
 synthesize concepts, theories, and applications acquired in introductory courses and think critically about their professional objectives.
 
@@ -11,7 +9,8 @@ synthesize concepts, theories, and applications acquired in introductory courses
     * Members choose roles and develop contract agreement
     * Team's submit schedule
     * Project Proposal:
-      * design process, and milestones, roles, outcomes.
+      * design process, scope, and milestones, roles, outcomes.
+        * use design thinking
   * Simultaneous Independent Project
     * Mimic's capstone project requirements
     * Presentation quality
@@ -46,6 +45,45 @@ synthesize concepts, theories, and applications acquired in introductory courses
    1. Must upload a profile picture or produce an avatar
    2. Upload at least one project to the portfolio system and/or link to external professional portfolio websites.
    3. Add short personal statement and bio.
+
+Week 1-2
+
+* Review DMD 100 pathway document
+* project brief
+* Ideate
+* teach project plans:
+
+* project plans consist of:
+
+  * definition of project type
+  * example other projects of similar type
+  * Project Pipelines: suggested tools, assets, methodologies, and outcomes
+
+week 3
+
+* pitch and pitch feedback
+  * Design process and pipeline/workflow
+
+week 4
+
+Min viable product
+
+week 5-6
+
+group project due
+
+week 7 - 12
+
+* Project 1 brief
+
+week 13 - 14
+
+Students are provided a check-off document
+
+* Define capstone project
+  * Students will work as change agents to address a critical, real-world, local or global issue or challenge and work through the design process to complete a capstone project.
+
+
 
 
 
