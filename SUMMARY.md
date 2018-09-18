@@ -12,4 +12,5 @@
 * [Concept development](concept-development.md)
 * [Projects](projects.md)
 * [Schedule](schedule.md)
+* [Project Plans](project-plans.md)
 
