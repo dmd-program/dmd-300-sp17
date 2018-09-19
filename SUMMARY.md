@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Schedule](schedule.md)
+* [Project Plans](project-plans.md)
 * [What is design?](what-is-design.md)
 * [Projects](projects.md)
   * [Museum Project](museum-project.md)
@@ -10,7 +12,8 @@
 * [Learning Outcomes](learning-outcomes.md)
 * [Designers](designers.md)
 * [Concept development](concept-development.md)
-* [Projects](projects.md)
-* [Schedule](schedule.md)
 * [Project Plans](project-plans.md)
+* Assignments
+* [Project 1](project-1.md)
+* [Project 2](project-2.md)
 

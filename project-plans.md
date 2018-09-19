@@ -6,3 +6,17 @@ There are some instances in which you will need to craft your own design process
 
 Let's explore some common design methods:
 
+
+
+
+
+Project 1: 6 Weeks
+
+Group Project
+
+Project 2: 6 Weeks
+
+Self directed design project
+
+Writing Assignment
+
