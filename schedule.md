@@ -6,7 +6,7 @@
       - Read DMD100 Pathway document
    - Pathway Assignment
    - Weekly Skill Challenge
-      - Drawing \[challenge 1 title\]
+      - Drawing \[challenge title\]
    - Project 1: Group Project 
       - Read Brief
       - Select group member preferences \(Otherwise groups will be assigned by instructor\)
@@ -16,37 +16,80 @@
    - Read
       - Reading assignment
    - Weekly Skill Challenge
-      - Drawing \[challenge 1 title\]
+      - Drawing \[challenge title\]
    - Project 1:  Write Proposal document \(Writing the brief\)
       - Create pech-kucha "style" pitch deck
 - **Week 3**
    - Read
       - Reading assignment
    - Weekly Skill Challenge
-      - Drawing \[challenge 1 title\]
+      - Drawing \[challenge title\]
    - Project 1:  Production
 - **Week 4**
+   - Read
+      - Reading assignment
+   - Weekly Skill Challenge
+      - Drawing \[challenge title\]
    - Project 1:  Production
 - **Week 5**
+   - Read
+      - Reading assignment
+   - Weekly Skill Challenge
+      - Drawing \[challenge title\]
    - Project 1:  Production
 - **Week 6**
+   - Read
+      - Reading assignment
+   - Weekly Skill Challenge
+      - Drawing \[challenge title\]
    - Project 1:  Production
 - **Week 7**
+   - Read
+      - Reading assignment
+   - Weekly Skill Challenge
+      - Drawing \[challenge title\]
    1. Project 1:  Crits
 - **Week 8**
+   - Read
+      - Reading assignment
+   - Weekly Skill Challenge
+      - Drawing \[challenge title\]
    - Project 1:  \(Ripping the client's brief\)
-   - Group Signups
 - **Week 9**
+   - Read
+      - Reading assignment
+   - Weekly Skill Challenge
+      - Drawing \[challenge title\]
    - Project 2: Research
 - **Week 10**
+   - Read
+      - Reading assignment
+   - Weekly Skill Challenge
+      - Drawing \[challenge title\]
    - Project 2: Production
 - **Week 11**
+   - Read
+      - Reading assignment
+   - Weekly Skill Challenge
+      - Drawing \[challenge title\]
    - Project 2: Production
 - **Week 12**
+   - Read
+      - Reading assignment
+   - Weekly Skill Challenge
+      - Drawing \[challenge title\]
    - Project 2: Production
 - **Week 13**
+   - Read
+      - Reading assignment
+   - Weekly Skill Challenge
+      - Drawing \[challenge title\]
    - Project 2: Production
 - **Week 14**
+   - Read
+      - Reading assignment
+   - Weekly Skill Challenge
+      - Drawing \[challenge title\]
    - Feedback with Client
 
 
