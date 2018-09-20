@@ -1,6 +1,13 @@
-# Project 1 : NAME TBD \(Group Project\)
+# Project 1 : Design for Good
 
-## Week 1:
+
+## Brief
+
+In this project, you will work with a small team to build a project.
+
+## Schedule
+
+### Week 1:
 
 Project
 
@@ -9,16 +16,18 @@ Project
 3. Meet with your group members
 4. Confirm member roles
 
-## Week 2:
+### Week 2:
 
 1. Evaluate feedback
 2. Rework project pitch documents 
 
-## Week 3:
+### Week 3:
 
-## Week 4:
+1. item
 
-## Week 5:
+### Week 4:
 
+### Week 5:
 
+## Rubric
 

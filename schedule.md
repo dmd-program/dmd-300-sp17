@@ -19,42 +19,53 @@
       - Drawing \[challenge title\]
    - Project 1:  Write Proposal document \(Writing the brief\)
       - Create pech-kucha "style" pitch deck
+      - Doc Reqs:
+         - Project Timeline
+         - Development process steps
+         - Tools and methods
+         - Personnel responsibilities
+      - Create Project Blog/website
 - **Week 3**
    - Read
       - Reading assignment
    - Weekly Skill Challenge
       - Drawing \[challenge title\]
-   - Project 1:  Production
+   - Project 1
+      - Production work continues
 - **Week 4**
    - Read
       - Reading assignment
    - Weekly Skill Challenge
       - Drawing \[challenge title\]
-   - Project 1:  Production
+   - Project 1
+      - Production work blog update
 - **Week 5**
    - Read
       - Reading assignment
    - Weekly Skill Challenge
       - Drawing \[challenge title\]
-   - Project 1:  Production
+   - Project 1
+      - Production work blog update
 - **Week 6**
    - Read
       - Reading assignment
    - Weekly Skill Challenge
       - Drawing \[challenge title\]
    - Project 1:  Production
+      - Production work blog update
 - **Week 7**
    - Read
       - Reading assignment
    - Weekly Skill Challenge
       - Drawing \[challenge title\]
-   1. Project 1:  Crits
+   - Project 1:
+      - Feedback
 - **Week 8**
    - Read
       - Reading assignment
    - Weekly Skill Challenge
       - Drawing \[challenge title\]
-   - Project 1:  \(Ripping the client's brief\)
+   - Project 1
 - **Week 9**
    - Read
       - Reading assignment
