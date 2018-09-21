@@ -8,7 +8,7 @@
    - Weekly Skill Challenge
       - Drawing \[challenge title\]
    - Project 1: Group Project 
-      - Read Brief
+      - Wicked Problem Brief
       - Select group member preferences \(Otherwise groups will be assigned by instructor\)
       - Meet with your group members to discuss project interests
       - Create a group member bios document and choose group name.
