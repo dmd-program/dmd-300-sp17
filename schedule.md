@@ -11,7 +11,8 @@ ToDo by Oc 31
 7. Assign all items to Schedule (50%)
 
 Todo by Nov. 30
-8. Lead faculty course eval
+
+1. Lead faculty course eval
 
 ---
 - **Week 1**
