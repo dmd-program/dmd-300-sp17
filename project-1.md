@@ -6,26 +6,36 @@ In this project, you will work in small team to design an awareness campaign for
 
 ## Project process
 
-1. Choose an important issue that has little awareness.
+1. Form a team
+  - 3 team members
+2. Choose an important issue that has little awareness.
    - The issue be general enough that many people are affected, but specific enough that you can find credible information about it. 
    - Look at well known issues, and highlight lesser known, yet crucial aspects of those issues.
-2. Research the issue using design research methods and credible sources
+3. Research the issue using design research methods and credible sources
    - You are encouraged to reach out to experts in the field.
-3. Analyze and deconstruct the issue
+4. Analyze and deconstruct the issue
    - Form and Context analysis
    - "Bound the form"
    - Identify forces that impact form
    - Diagram these relationships
-4. Identify awareness opportunities
-5. Choose primary media for digital production
+5. Identify awareness opportunities
+6. Choose primary media for digital production
    - Print, web, info-graphics, game/interactive, animation, video/film, audio/sound, etc.
-6. Create a pitch document that highlights:
+7. Create a pitch document that highlights:
    - The issue and the people affected
    - The audience for the awareness campaign
    - The types of media that will be produced.
-7. Begin production. Post updates to a public blog or equivalent.
-8. Instructor check-in
-9. Final work presentation uploaded online
+   - Create pech-kucha "style" pitch deck
+   - Doc Reqs:
+      - Project Timeline
+      - Development process steps
+      - Tools and methods
+      - Personnel responsibilities
+   - Create Project Blog/website
+8. Members choose roles and develop contract agreement
+9. Begin production. Post updates to a public blog or equivalent.
+10. Instructor check-in
+11. Final work presentation uploaded online
 
 
 ## Schedule
