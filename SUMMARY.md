@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Schedule](schedule.md)
-* [Learning Outcomes](learning-outcomes.md)
 * [Projects](projects.md)
   * [Writing Project](writing-project.md)
   * [Project 1](project-1.md)
