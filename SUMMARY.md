@@ -12,3 +12,5 @@
   * [Concept development](concept-development.md)
   * [Project Plans](project-plans.md)
   * [What is design?](what-is-design.md)
+* [Capstone Project Check-off Process](capstone-project-check-off-process.md)
+

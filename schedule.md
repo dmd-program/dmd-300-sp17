@@ -7,6 +7,7 @@ ToDo by Oc 31
 2. produce example project plans
 3. produce major writing assignment (started)
 4. produce  capstone proposal assignment and check-off process
+5. Develop weekly drawing/diagram challenges
 
 ---
 - **Week 1**
