@@ -13,7 +13,7 @@ In this project, you will work in small team to design an awareness campaign for
 
 1. Choose an important issue that has little awareness.
    - The issue be general enough that many people are affected, but specific enough that you can find credible information about it. 
-   - You can look at well known issues, and highlight lesser known, yet crucial aspects of those issues.
+   - Look at well known issues, and highlight lesser known, yet crucial aspects of those issues.
 2. Research the issue using design research methods and credible sources
    - You are encouraged to reach out to experts in the field.
 3. Analyze and deconstruct the issue
@@ -28,7 +28,7 @@ In this project, you will work in small team to design an awareness campaign for
    - The issue and the people affected
    - The audience for the awareness campaign
    - The types of media that will be produced.
-7. Begin production
+7. Begin production. Post updates to a public blog or equivalent.
 8. Instructor check-in
 9. Final work presentation uploaded online
 
