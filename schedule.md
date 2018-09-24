@@ -96,6 +96,11 @@
    - Weekly Skill Challenge
       - Drawing \[challenge title\]
    - Project 2: Production
+   - Students are provided a check-off document
+   - Define capstone project
+     - Students will work as change agents to address a critical, real-world, local or global issue or challenge and work through the design process to complete a capstone project.
+
+
 - **Week 14**
    - Read
       - Reading assignment

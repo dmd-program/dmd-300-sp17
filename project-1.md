@@ -2,12 +2,7 @@
 
 ## Project Brief
 
-In this project, you will work in small team to design an awareness campaign for an important issue.
-
-## Requirements
-
-1. Project pitch
-2. 
+In this project, you will work in small team to design an awareness campaign for an important issue. 
 
 ## Project process
 
