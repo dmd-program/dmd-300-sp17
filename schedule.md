@@ -9,6 +9,8 @@ ToDo by Oc 31
 5. produce  capstone proposal assignment and check-off process
 6. Develop weekly drawing/diagram challenges
 7. Assign all items to Schedule (50%)
+
+Todo by Nov. 30
 8. Lead faculty course eval
 
 ---
