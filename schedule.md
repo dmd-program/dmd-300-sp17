@@ -4,11 +4,12 @@ ToDo by Oc 31
 
 1. produce project 1 brief (90% finished)
 2. Produce project 2 brief (started)
-2. produce example project plans
-3. produce major writing assignment (started)
-4. produce  capstone proposal assignment and check-off process
-5. Develop weekly drawing/diagram challenges
-6. Assign all items to Schedule (50%)
+3. produce example project plans
+4. produce major writing assignment (started)
+5. produce  capstone proposal assignment and check-off process
+6. Develop weekly drawing/diagram challenges
+7. Assign all items to Schedule (50%)
+8. Lead faculty course eval
 
 ---
 - **Week 1**
