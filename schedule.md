@@ -8,7 +8,7 @@ ToDo by Oc 31
 3. produce major writing assignment (started)
 4. produce  capstone proposal assignment and check-off process
 
-
+---
 - **Week 1**
    - Read
       - Course introduction
@@ -107,8 +107,6 @@ ToDo by Oc 31
    - Students are provided a check-off document
    - Define capstone project
      - Students will work as change agents to address a critical, real-world, local or global issue or challenge and work through the design process to complete a capstone project.
-
-
 - **Week 14**
    - Read
       - Reading assignment
