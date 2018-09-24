@@ -30,7 +30,7 @@ In this project, you will work in small team to design an awareness campaign for
    - The types of media that will be produced.
 7. Begin production
 8. Instructor check-in
-9. 
+9. Final work presentation uploaded online
 
 
 ## Schedule
