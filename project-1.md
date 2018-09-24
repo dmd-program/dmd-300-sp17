@@ -21,21 +21,21 @@ In this project, you will work in small team to design an awareness campaign for
 5. Identify awareness opportunities
 6. Choose primary media for digital production
    - Print, web, info-graphics, game/interactive, animation, video/film, audio/sound, etc.
-7. Create a pitch document that highlights:
+7. Create a document and pech-kucha "style" pitch deck
+ that highlights:
    - The issue and the people affected
    - The audience for the awareness campaign
-   - The types of media that will be produced.
-   - Create pech-kucha "style" pitch deck
+   - The types of media that will be produced. 
    - Doc Reqs:
       - Project Timeline
       - Development process steps
-      - Tools and methods
+      - Tools, assets, methodologies, and outcomes 
       - Personnel responsibilities
-   - Create Project Blog/website
-8. Members choose roles and develop contract agreement
-9. Begin production. Post updates to a public blog or equivalent.
-10. Instructor check-in
-11. Final work presentation uploaded online
+8. Create Project Blog/website
+9. Members choose roles and develop contract agreement
+10. Begin production. Post updates to a public blog or equivalent.
+11. Instructor check-in
+12. Final work presentation uploaded online
 
 
 ## Schedule
