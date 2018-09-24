@@ -1,5 +1,14 @@
 # Schedule
 
+ToDo by Oc 31
+
+1. produce project 1 brief (90% finished)
+2. Produce project 2 brief (started)
+2. produce example project plans
+3. produce major writing assignment (started)
+4. produce  capstone proposal assignment and check-off process
+
+
 - **Week 1**
    - Read
       - Course introduction
@@ -51,21 +60,20 @@
       - Reading assignment
    - Weekly Skill Challenge
       - Drawing \[challenge title\]
-   - Project 1:  Production
-      - Production work blog update
+   - Project 1:  Due
 - **Week 7**
    - Read
       - Reading assignment
    - Weekly Skill Challenge
       - Drawing \[challenge title\]
-   - Project 1:
+   - Project 2:
       - Feedback
 - **Week 8**
    - Read
       - Reading assignment
    - Weekly Skill Challenge
       - Drawing \[challenge title\]
-   - Project 1
+   - Project 2
 - **Week 9**
    - Read
       - Reading assignment
