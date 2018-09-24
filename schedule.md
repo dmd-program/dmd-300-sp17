@@ -8,6 +8,7 @@ ToDo by Oc 31
 3. produce major writing assignment (started)
 4. produce  capstone proposal assignment and check-off process
 5. Develop weekly drawing/diagram challenges
+6. Assign all items to Schedule (50%)
 
 ---
 - **Week 1**
