@@ -3,10 +3,10 @@
 ToDo by Oc 31
 
 1. produce project 1 brief (90% finished)
-2. Produce project 2 brief (started)
-3. produce example project plans
+2. Produce project 2 brief (90% finished)
+3. produce project methodology requirements
 4. produce major writing assignment (started)
-5. produce  capstone proposal assignment and check-off process
+5. ~~produce capstone proposal assignment and check-off process~~
 6. Develop weekly drawing/diagram challenges
 7. Assign all items to Schedule (50%)
 
