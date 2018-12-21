@@ -1,6 +1,6 @@
 # Creating a pecha-kucha presentation
 
-See this background and a pecha-kucha presentation example: [Pecha Kucha: Get to the PowerPoint in 20 Slides](https://www.youtube.com/watch?v=9NZOt6BkhUg) produced in 2007 by Dan Pink for Wired Magazine.
+To get a quick overview and an example of this style of presentation, see this Youtube video produced in 2007 by Dan Pink for Wired Magazine: [Pecha Kucha: Get to the PowerPoint in 20 Slides](https://www.youtube.com/watch?v=9NZOt6BkhUg)
 
 
 **The rules for this format of presentation are simple:**
