@@ -11,7 +11,7 @@
   * [Creating a pecha-kucha presentation](creating-a-pecha-kucha-style-pitch.md)
   * [Designers](designers.md)
   * [Concept development](concept-development.md)
-  * [Project Plans](project-plans.md)
+  * [Developing a project plans](project-plans.md)
   * [What is design?](what-is-design.md)
 * [Capstone Project Check-off Process](capstone-project-check-off-process.md)
 
