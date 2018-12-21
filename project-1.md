@@ -21,8 +21,7 @@ In this project, you will work in small team to design an awareness campaign for
 5. Identify awareness opportunities
 6. Choose primary media for digital production
    - Print, web, info-graphics, game/interactive, animation, video/film, audio/sound, etc.
-7. Create a document and pech-kucha "style" pitch deck
- that highlights:
+7. Create a document and pech-kucha "style" pitch deck that highlights:
    - The issue and the people affected
    - The audience for the awareness campaign
    - The types of media that will be produced. 

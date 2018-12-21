@@ -1,6 +1,6 @@
 # Writing project
 
-1. Find a designer in your interest area
+1. Find an artist, designer, or person of great influence in your creative interest area.
 2. Describe their work
    - Related theory
    - Historical context
