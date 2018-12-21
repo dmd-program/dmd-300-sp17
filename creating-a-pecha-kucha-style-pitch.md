@@ -6,4 +6,4 @@ To get a quick overview and an example of this style of presentation, see this Y
 **The rules for this format of presentation are simple:**
 
 1. Create only 20 slides
-2. Slides automatically advance every 20 seconds
+2. As you are talking, slides automatically advance every 20 seconds
