@@ -5,9 +5,10 @@
 * [Schedule](schedule.md)
 * [Projects](projects.md)
   * [Writing Project](writing-project.md)
-  * [Project 1](project-1.md)
-  * [Project 2](project-2.md)
+  * [Design Project 1](project-1.md)
+  * [Design Project 2](project-2.md)
 * Topics
+  * [Creating a Pecha Kucha Style Pitch](creating-a-pecha-kucha-style-pitch.md)
   * [Designers](designers.md)
   * [Concept development](concept-development.md)
   * [Project Plans](project-plans.md)
