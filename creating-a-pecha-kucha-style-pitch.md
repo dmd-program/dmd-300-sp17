@@ -1,1 +1,1 @@
-# Creating a Pecha Kucha Style Pitch
+# Creating a pecha-kucha presentation

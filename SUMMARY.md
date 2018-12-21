@@ -8,7 +8,7 @@
   * [Design Project 1](project-1.md)
   * [Design Project 2](project-2.md)
 * Topics
-  * [Creating a Pecha Kucha Style Pitch](creating-a-pecha-kucha-style-pitch.md)
+  * [Creating a pecha-kucha presentation](creating-a-pecha-kucha-style-pitch.md)
   * [Designers](designers.md)
   * [Concept development](concept-development.md)
   * [Project Plans](project-plans.md)
