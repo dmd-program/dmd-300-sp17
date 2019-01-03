@@ -1,4 +1,4 @@
-# Project 1 : Design for Good
+# Project 1 : Design for Intervention
 
 ## Project Brief
 
@@ -50,14 +50,20 @@ In this project, you will work in small team to design an awareness campaign for
 
 1. Pitch Proposal
    - Defined team roles and responsibilities
-   - Design Topic
+   - Topic or Issue
    - Design process: Identify Research and Design Thinking Methods 
-2. Project presentation 
-   - Overview
-   - Design Principles
-   - Outcomes
-   - Take-aways
-   
+2. Project Explainer Presentation 
+   - **Content Sections**
+     1. Overview
+     2. Design Principles
+     3. Outcomes
+     4. Insights/Take-aways
+   - **Formats**
+     1. Video/Screencast of the presentation being narrated with voice or text.
+     2. Export Powerpoint or Google Slides as a **PDF**. Upload only the PDF.
+3. Project Documentation
+   - PDF
+
 ## Rubric
 
 1. Peer evaluation 25%
