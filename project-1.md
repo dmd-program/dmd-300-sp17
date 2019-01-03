@@ -46,6 +46,18 @@ In this project, you will work in small team to design an awareness campaign for
 5. Evaluate feedback
 6. Rework project pitch documents 
 
+## Deliverables
+
+1. Pitch Proposal
+   - Defined team roles and responsibilities
+   - Design Topic
+   - Design process: Identify Research and Design Thinking Methods 
+2. Project presentation 
+   - Overview
+   - Design Principles
+   - Outcomes
+   - Take-aways
+   
 ## Rubric
 
 1. Peer evaluation 25%
