@@ -3,6 +3,7 @@
 * [About](README.md)
 * [Introduction](introduction.md)
 * [Schedule](schedule.md)
+* [Design process and methods](design-process-and-methods.md)
 * [Collaboration tools](collaboration-tools.md)
 * [Projects](projects.md)
   * [Writing Project](writing-project.md)
@@ -20,5 +21,4 @@
   * [Developing a project plans](project-plans.md)
   * [What is design?](what-is-design.md)
 * [Capstone Project Check-off Process](capstone-project-check-off-process.md)
-* [Design process and methods](design-process-and-methods.md)
 

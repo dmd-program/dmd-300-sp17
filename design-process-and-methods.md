@@ -1,6 +1,6 @@
 # Design process and methods
 
-There is a huge array of design thinking methods, design sprint frameworks, and other ideas about the design process available for you to draw from. See the following curated lists to jump in:
+There is a huge array of design thinking methods, design sprint frameworks, and other ideas about the design process available for you to draw from. It may seem overwhelming at first, but make note and gather only what seems useful for your own work. Spend some time looking through the following curated lists to get an idea of what's out there:
 
 ## Web resources
 
