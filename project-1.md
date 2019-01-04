@@ -1,5 +1,69 @@
 # Project 1 : Design for Intervention
 
+
+In this project, you will work in small team to design a product, service, design intervention or a detailed intervention proposal. Your team will build your own project sprint structure by selecting sprint elements and setting them to a timeline. After the design sprint period is over, you will evaluate how it went, and you will assess your own process.
+
+## Preoject overview:
+
+- **Week 1-2:** Meet and greet with team using collaboration tools.
+  1. Agenda items for the meeting
+    - Find team meeting/discussion tools: Canvas, slack, zoom
+    - Agree upon documentation tools: Google docs, ms work, dropbox, ms office, etc.
+    - Identify consistent meeting times
+    - Choose topics and digital media that are of interest to the group
+  2. Identify design challenges or topics. It may be beneficial to bring some to this meeting, or to convene a second meeting to identify team interests.
+
+### Week 3: Identify a sprint timeline
+
+1. **Create a sprint timeline.** Choose design and research methods and put them to a timeline. Describe what occurs in each session. For instance, if using DesignKit or Google Venture methods, name the method explicitly:
+   - Research
+   - Ideation or concept development
+   - Production or iteration
+   - Analysis and feedback
+2. **Set roles.** Members may have multiple roles.
+3. **Project Document**.  
+   - Requirements
+     1. Cover/title page: 
+       - project title
+       - date
+       - team members
+       - course name 
+       - instructor(s)
+     2. Proposal summary
+       - Topic or challenge
+       - Describe why the topic is interesting, important, or novel. Does it reimagine, reframe, refactor, re-contextualize, or otherwise perform remix or invention?
+     3. Design challenge
+       - Analyze and deconstruct the issue using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form).
+       - [Identify forces that impact form](https://vimeo.com/10875362)
+       - Include figures and diagrams of these relationships
+     4. Team
+       - Member names and bios that include relevant interests and skills
+     6. Design process overview
+       - Timeline of events
+       - List methods used with brief descriptions
+       - Anticipated outcomes of each step
+     7. Outcomes documentation
+       - Include images, links to videos, diagrams, figures, drawings, etc.
+     8. Bibliography
+   - **Formatting:** PDF document in US Letter size.
+     - Your instructor will review and provide feedback if necessary.
+
+### Week 4-6: Implement your design sprint
+
+### Week 7: Design sprint assessment
+
+Please fill out the design sprint assessment. You will be assessed on your ability to analyze benefits and issues inherent in your process, and your ability to imagine ways of correcting.
+Issues could include availability of team members, feeling of meaningful contribution, equal footing, roles assignment, was the brief you defined in the etc. 
+
+
+
+
+
+
+
+
+
+
 ## Project Brief
 
 In this project, you will work in small team to design an awareness campaign for an important issue. 
