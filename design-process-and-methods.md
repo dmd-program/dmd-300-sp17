@@ -17,8 +17,6 @@ There is a huge array of design thinking methods, design sprint frameworks, and 
   - [UX Research Methods for Agile](https://www.lynda.com/User-Experience-tutorials/UX-Research-Agile-Teams/667388-2.html?org=psu.edu)
   - [UX Foundations: Research](https://www.lynda.com/User-Experience-tutorials/UX-Research-Fundamentals/439418-2.html?org=psu.edu)
 
-
-
 ## Useful books:
 
 - Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions 
@@ -27,4 +25,5 @@ There is a huge array of design thinking methods, design sprint frameworks, and 
 - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days
   - [Purchase on Amazon](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/)
 - Design Sprint
+  - [Read Penn State eBook](https://ebookcentral.proquest.com/lib/pensu/detail.action?docID=4333774&query=design+sprint)
   - [Purchase on Amazon](https://www.amazon.com/Design-Sprint-Practical-Guidebook-Building/dp/1491923172)
