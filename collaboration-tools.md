@@ -6,20 +6,21 @@
     - For individual student projects, you may create your own mural.com education account, and invite your instructor as a member.
 2. **Team communications**
   1. Video conferencing
-    - psu.zoom.us
+    - Zoom \([psu.zoom.us](https://psu.zoom.us)\)
     - Skype
     - Google Hangouts
   2. Team management and tasks
     - Slack \([dmd-program.slack.com](http://dmd-program.slack.com)\)
-    - Trello
-    - Waffle.io
-    - Asana
+    - [Trello](https://trello.com)
+    - [Waffle.io](https://waffle.io) and Github.com
+    - [Basecamp](https://basecamp.com/)
+    - [Asana](http://asana.com)
 4. **Collaborative writing tools**
   1. Google Docs
     - Features include track changes, comments, chat, export as pdf, etc.
   3. Office 365 docs
     - Features include track changes, comments, chat, export as pdf, etc.
-  5. Github.com or Gitbook.com
+  5. [Gitbook.com](https://www.gitbook.com) and Github.com
     - Developer centric writing and collaboration.
     - Can write in markdown and publish to HTML very easily.
 
