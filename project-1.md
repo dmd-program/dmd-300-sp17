@@ -29,13 +29,14 @@ In this project, you will work in small team to design a product, service, desig
        - team members
        - course name 
        - instructor(s)
-     2. Proposal summary
+     2. Project summary
        - Topic or challenge
        - Describe why the topic is interesting, important, or novel. Does it reimagine, reframe, refactor, re-contextualize, or otherwise perform remix or invention?
      3. Design challenge
        - Analyze and deconstruct the issue using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form).
        - [Identify forces that impact form](https://vimeo.com/10875362)
        - Include figures and diagrams of these relationships
+       - Describe media used for digital production. For example, print, web, info-graphics, game/interactive, animation, video/film, audio/sound, physical installation, etc.
      4. Team
        - Member names and bios that include relevant interests and skills
      6. Design process overview
