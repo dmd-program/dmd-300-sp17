@@ -3,6 +3,7 @@
 * [About](README.md)
 * [Introduction](introduction.md)
 * [Schedule](schedule.md)
+* [Collaboration tools](collaboration-tools.md)
 * [Projects](projects.md)
   * [Writing Project](writing-project.md)
   * [Design Project 1](project-1.md)
