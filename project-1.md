@@ -1,27 +1,31 @@
 # Project 1 : Design for Intervention
 
 
-In this project, you will work in small team to design a product, service, design intervention or a detailed intervention proposal. Your team will build your own project sprint structure by selecting sprint elements and setting them to a timeline. After the design sprint period is over, you will evaluate how it went, and you will assess your own process.
+In this project, you will work in small team to design a product, service, or social design intervention. Your team will build your own project sprint structure by selecting sprint elements and setting them to a timeline. After the design sprint period is over, you will evaluate how it went.
 
-## Preoject overview:
+## Project overview:
 
-- **Week 1-2:** Meet and greet with team using collaboration tools.
-  1. Agenda items for the meeting
-    - Find team meeting/discussion tools: Canvas, slack, zoom
-    - Agree upon documentation tools: Google docs, ms work, dropbox, ms office, etc.
-    - Identify consistent meeting times
-    - Choose topics and digital media that are of interest to the group
-  2. Identify design challenges or topics. It may be beneficial to bring some to this meeting, or to convene a second meeting to identify team interests.
+### Week 1: Team meet and greet
 
-### Week 3: Identify a sprint timeline
+1. Agenda items for the meeting
+  - Introductions
+  - Decide on team collaboration tools. A more comprehensive list is located on the [collaboration tools page](/collaboration-tools.md).
+  - Identify meeting times
+  - Discuss types of digital media that are of interest to the group
+2. Identify design challenges or topics. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later.
+
+### Week 3: Develop a design sprint
 
 1. **Create a sprint timeline.** Choose design and research methods and put them to a timeline. Describe what occurs in each session. For instance, if using DesignKit or Google Venture methods, name the method explicitly:
    - Research
    - Ideation or concept development
    - Production or iteration
    - Analysis and feedback
-2. **Set roles.** Members may have multiple roles.
-3. **Project Document**.  
+2. **Set roles and responsibilities.** Members may have multiple roles. See team roles page for a list of roles.
+
+### Week 3: Develop a design sprint
+
+1. **Project Document**.  
    - Requirements
      1. Cover/title page: 
        - project title

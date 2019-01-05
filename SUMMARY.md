@@ -3,6 +3,7 @@
 * [About](README.md)
 * [Introduction](introduction.md)
 * [Schedule](schedule.md)
+* [Team roles](team-roles.md)
 * [Design process and methods](design-process-and-methods.md)
 * [Collaboration tools](collaboration-tools.md)
 * [Projects](projects.md)
