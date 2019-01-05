@@ -1,9 +1,8 @@
-# Project 1 : Design for Intervention
-
+# Project 1 : Co-design challenge
 
 In this project, you will work in small team to design a product, service, or social design intervention. Your team will build your own project sprint structure by selecting sprint elements and setting them to a timeline. After the design sprint period is over, you will evaluate how it went.
 
-## Project overview:
+## Overview:
 
 ### Week 1: Team meet and greet
 
@@ -14,16 +13,22 @@ In this project, you will work in small team to design a product, service, or so
   - Discuss types of digital media that are of interest to the group
 2. Identify design challenges or topics. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later.
 
+### Week 2: Seek inspiration
+
 ### Week 3: Develop a design sprint
+
+![sprint timeline graphic](/assets/timeline@2x.png)
 
 1. **Create a sprint timeline.** Choose design and research methods and put them to a timeline. Describe what occurs in each session. For instance, if using DesignKit or Google Venture methods, name the method explicitly:
    - Research
    - Ideation or concept development
    - Production or iteration
    - Analysis and feedback
-2. **Set roles and responsibilities.** Members may have multiple roles. See team roles page for a list of roles.
+2. **Set roles and responsibilities.** Members may have multiple roles. See [team roles](/team-roles.md) page for a list of roles.
 
-### Week 3: Develop a design sprint
+### Week 4-6: Implement your design sprint
+
+### Week 6: Project document
 
 1. **Project Document**.  
    - Requirements
@@ -42,18 +47,18 @@ In this project, you will work in small team to design a product, service, or so
        - Include figures and diagrams of these relationships
        - Describe media used for digital production. For example, print, web, info-graphics, game/interactive, animation, video/film, audio/sound, physical installation, etc.
      4. Team
-       - Member names and bios that include relevant interests and skills
+       - Member names and bios that include relevant interests, skills, and capabilities.
      6. Design process overview
        - Timeline of events
        - List methods used with brief descriptions
        - Anticipated outcomes of each step
      7. Outcomes documentation
-       - Include images, links to videos, diagrams, figures, drawings, etc.
-     8. Bibliography
+       - Include images, diagrams, figures, drawings, links to videos and websites, etc.
+     8. Lessons learned
+       - Assess how well the design process worked. What might be done to improve upon it?
+     9. Bibliography
    - **Formatting:** PDF document in US Letter size.
-     - Your instructor will review and provide feedback if necessary.
-
-### Week 4-6: Implement your design sprint
+     - Proofread and spellcheck.
 
 ### Week 7: Design sprint assessment
 
@@ -61,49 +66,6 @@ Please fill out the design sprint assessment. You will be assessed on your abili
 Issues could include availability of team members, feeling of meaningful contribution, equal footing, roles assignment, was the brief you defined in the etc. 
 
 
-
-
-
-
-
-
-
-
-## Project Brief
-
-In this project, you will work in small team to design an awareness campaign for an important issue. 
-
-## Project process
-
-1. Form a team
-  - 3 team members
-2. Choose an important issue that has little awareness.
-   - The issue be general enough that many people are affected, but specific enough that you can find credible information about it. 
-   - Look at well known issues, and highlight lesser known, yet crucial aspects of those issues.
-3. Research the issue using design research methods and credible sources
-   - You are encouraged to reach out to experts in the field.
-4. Analyze and deconstruct the issue
-   - Form and Context analysis
-   - "Bound the form"
-   - Identify forces that impact form
-   - Diagram these relationships
-5. Identify awareness opportunities
-6. Choose primary media for digital production
-   - Print, web, info-graphics, game/interactive, animation, video/film, audio/sound, etc.
-7. Create a document and pech-kucha "style" pitch deck that highlights:
-   - The issue and the people affected
-   - The audience for the awareness campaign
-   - The types of media that will be produced. 
-   - Doc Reqs:
-      - Project Timeline
-      - Development process steps
-      - Tools, assets, methodologies, and outcomes 
-      - Personnel responsibilities
-8. Create Project Blog/website
-9. Members choose roles and develop contract agreement
-10. Begin production. Post updates to a public blog or equivalent.
-11. Instructor check-in
-12. Final work presentation uploaded online
 
 
 ## Schedule
@@ -135,6 +97,8 @@ In this project, you will work in small team to design an awareness campaign for
 
 ## Rubric
 
-1. Peer evaluation 25%
-2. Developed and executed an effective design process 25%
-3. Followed project requirements 50%
+This project is graded as a team. All members will receive the same grade.
+
+1. Team developed and executed a design process 25%
+2. Submitted project deliverables according to requirements 25%
+3. Design sprint assessment 25%
