@@ -1,10 +1,14 @@
 # Concept development
 
+>... a work with a weak concept lacks intellectual grounding – acknowledgement of historical, cultural, social, and other contexts with which it hopes to engage.
+
 A concept is the core idea \(or set of ideas\) that signify core values inherent in a project, process, or thing. Even when not explicitly stated, the concept is the intellectual and practical motivation behind any endeavored project. Concepts can range from simple, subjective, and abstract to complex, hyper-specific, and didactic.
+
+Work that lacks strong concept development tends to be obvious, particularly during critique. The first thing you will notice is that there are few questions of substance that you can ask about the work, even after an explanation is given. The second issue you will notice is that all conversation tends to be about technique and process, or what the work could be doing if tweaked or changed, rather than the result, context, and effect of the work. In other words, a work with a weak concept lacks intellectual grounding – acknowledgement of historical, cultural, social, and other contexts with which it hopes to engage.
 
 ## Synthesizing vs generating concepts
 
-Sometimes you are given a concept to respond to when producing work, and sometimes you produce work and analyze the outcomes to develop concepts after the fact. Concept-first is often referred to as a **Top-down Approach**. A project in-which the concept comes after something is produced is referred to as a **Bottom-up Approach**. Often, you will set out pursuing one concept, only to change after you have started or have finished a project.
+Sometimes you are given a concept to respond to or asked to establish a concept, and other times you produce work and analyze the outcomes to develop concepts after the fact. Concept-first is often referred to as a **Top-down Approach**. A project in-which the concept comes after something is produced is referred to as a **Bottom-up Approach**. Often, you will set out pursuing one concept, only to change after you have started or have finished a project.
 
 ## Mental model
 
