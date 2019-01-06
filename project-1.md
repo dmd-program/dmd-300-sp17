@@ -13,6 +13,7 @@ In this project, you will work in small team to design a product, service, or so
 - Practice evaluating and reflecting on the effectiveness of a design process
 - Select and test design methods, techniques, and tools to produce digitally designed, critically engaged, and systemically considered creative explorations and outcomes 
 - Produce a detailed project document
+- Practice publishing skills by keeping a [team project blog](http://sites.psu.edu/)
 
 
 ## Schedule
@@ -37,7 +38,8 @@ Meet with your team and begin to establish meeting times and meeting agendas.
 The following are some recommended items to consider for meeting agendas. Ultimately, you are responsible for crafting meetings and gatherings:
 
 1. Introductions or icebreaker
-2. Decide on team collaboration tools. A more comprehensive list is located on the [collaboration tools page](/collaboration-tools.md).
+2. Read through the project document, look at provided resources, and discuss any questions about the project that the team may have. (Please send questions to your instructor if you are still unclear after this discussion.)
+3. Decide on team collaboration tools. A more comprehensive list is located on the [collaboration tools page](/collaboration-tools.md).
 3. Identify meeting times
 4. Discuss types of digital media workflows, tools, and projects that are of interest to the group
 5. Identify design challenges or topics. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later to spend more time discussing.
@@ -61,6 +63,7 @@ Produce a short Pecha-kucha style presentation that explains the. Please inlcude
    - Production or iteration
    - Analysis and feedback
 2. **Set roles and responsibilities.** Members may have multiple roles. See [team roles](/team-roles.md) page for a list of roles.
+3. Create a http://sites.psu.edu blog to track your project's progress.
 
 ### Phase 4: Implement your design process
 
@@ -108,11 +111,16 @@ Produce a short Pecha-kucha style presentation that explains the. Please inlcude
   
 #### Submission details:
 
-1. Upload the PDF document to the canvas assignment. Please name the
+Upload the PDF document to the canvas assignment by the due date and time listed.
 
 ### Phase 6: Design sprint assessment
 
 Please fill out the design process assessment. You will be assessed on your ability to analyze benefits and issues inherent in your process, and your ability to imagine ways of correcting. Issues could include availability of team members, feeling of meaningful contribution, equal contributions, role assignments,  and others.
+
+#### Submission details:
+
+Upload the PDF document to the canvas assignment by the due date and time listed.
+
 
 ## Team conflict
 
