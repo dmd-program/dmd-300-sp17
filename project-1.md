@@ -100,9 +100,15 @@ Produce a short Pecha-kucha style presentation that explains the. Please inlcude
  8. **Bibliography**
 
 #### Formatting requirements:
-  1. PDF document in US Letter size.
-  2. Please see documentation resources for guidance.
-  3. Proofread and spellcheck
+
+1. PDF document in US Letter size.
+2. **Filename:** `team-name.pdf`
+2. Please see [documentation resources](/documentation-resources.md) for guidance.
+3. Proofread and spellcheck
+  
+#### Submission details:
+
+1. Upload the PDF document to the canvas assignment. Please name the
 
 ### Phase 6: Design sprint assessment
 
