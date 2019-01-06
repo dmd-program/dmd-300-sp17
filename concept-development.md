@@ -26,5 +26,5 @@ Semantics. Semiotics. Ontology. Phenomenology.
 
 A process should be custom tailored for each project.
 
-It's helpful to understand that the process is a tool to help you get to the end-point of a project more quickly or without the need for as many iterations. Changing a process mid-stream can be beneficial, particularly, if you stumbled onto a new process. This will create unpredictable outcomes that often feel like novel and exciting discoveries.
+It's helpful to understand that the process is a tool to help you get to the end-point of a project more quickly or without the need for as many iterations. Changing a process mid-stream can be beneficial, particularly, if you stumbled onto a new process. This will create unpredictable outcomes that often feel like you've stumbled into new and exciting discoveries.
 
