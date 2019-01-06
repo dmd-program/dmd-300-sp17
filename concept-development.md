@@ -14,11 +14,13 @@ Concept development can be a difficult task, particularly if you are not immerse
 
 ## Mental model
 
+>Forming new mental models is how insights are created. These are the coveted "Ah ha!" moments that educators seek to provide for their students.
+
 **Synonyms:** World view; perspective; conceptual understanding.
 
 A mental model is your interpretation of how a something works. Mental models develop based on a person's total personal experiences, and there is no fundamental difference between someone's "perspective" and their mental model. If someone has been deemed an expert in a particular area, it is often because they have been privy to a large variety of mental models, evaluated them, and applied logic and reason to land on the most correct model as their basis for understanding. Mental models can be created on the fly, and there sometimes are no correct ones, or it is at least not possible to know if one is correct. This is why forming an absolute opinion is a hinderance to good design, the model can and should change at any time, and while they should be vetted for ethics, safety, and inclusion, ignoring or disregarding an alternate mental model ultimately hinders innovation. Assumptions about a person's mental model is a form of bias, and designer spend a lot of time seeking to understand what and how people actually perceive rather than making design decisions based on assumptions.
 
-**Forming new mental models is how insights are created.** Insights are a form of knowledge, and so developing new mental models help foster the production of new knowledge and expand the world as humans can understand and experience it. 
+Forming new mental models is how insights are created. These are the coveted "Ah ha!" moments that educators seek to provide for their students. Insights are a form of knowledge, and so developing new mental models help foster the production of new knowledge and expand the world as humans can understand and experience it. 
 
 In politics, you often see people with a mix of absolute perspectives, flexible perspectives depending on what presents the most opportunity \(negatively termed flip-flopping\), and open-minded perspectives able to adopt new mental models as logic and reason dictate. Designing for a community and society with diverse, conflicting arrays of mental models can seem like an impossible challenge, and can be discouraging. Adopting an unwavering, can-do attitude (optimism) can stave off pessimism, and will help designers produce good design work in challenging circumstances.
 
@@ -27,10 +29,3 @@ A pragmatist can produce mediocre design, be coerced into maintaining the status
 ## Meaning making
 
 Semantics. Semiotics. Ontology. Phenomenology.
-
-## Process
-
-A process should be custom tailored for each project.
-
-It's helpful to understand that the process is a tool to help you get to the end-point of a project more quickly or without the need for as many iterations. Changing a process mid-stream can be beneficial, particularly, if you stumbled onto a new process. This will create unpredictable outcomes that often feel like you've stumbled into new and exciting discoveries.
-
