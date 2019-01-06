@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, you will work in small team to design a product, service, or social design intervention. In some cases, you may not have time or resources to produce a functional implementation or prototype of your teams project, but you should at least have a well formed project document. Your team will build your own project sprint structure by selecting sprint elements and setting them to a timeline. After the design sprint period is over, you will evaluate how it went.
+In this project, you will work in small team to design a product, service, or social design intervention. In some cases, you may not have time or resources to produce a functional implementation or prototype of your teams project, but you should at least have a well formed project document proposal. Your team will build it's own project sprint structure by selecting design process elements and setting them to a timeline. Your teem will set meeting agendas, create a concept pitch, develop and use a custom design sprint structure, track and document a process using a project blog, and produce project documentation.
 
 ## Objectives
 
@@ -103,8 +103,9 @@ Produce a short Pecha-kucha style presentation that explains the project concept
  6. **Outcomes documentation**
    - Include any descriptions and media to describe the project.
  7. **Lessons learned**
-   - Assess how well the design process worked. What might be done to improve upon it?
+   - Assess how well the design process worked. What might be done to improve upon it or mitigate issues? All team members should candidly provide any issues they experienced or observed. These issues could include: Availability of team members, feeling of meaningful or equal contribution, types of design exercises used, role assignments, etc.
  8. **Bibliography**
+   - You can choose either APA or MLA format for document. See [documentation resources](/documentation-resources.md) for help.
 
 #### Formatting requirements:
 
@@ -116,15 +117,6 @@ Produce a short Pecha-kucha style presentation that explains the project concept
 #### Submission details:
 
 Upload the PDF document to the canvas assignment by the due date and time listed.
-
-### Phase 6: Design sprint assessment
-
-Please fill out the design process assessment. You will be assessed on your ability to analyze benefits and issues inherent in your process, and your ability to imagine ways of correcting. Issues could include availability of team members, feeling of meaningful contribution, equal contributions, role assignments,  and others.
-
-#### Submission details:
-
-Upload the PDF document to the canvas assignment by the due date and time listed.
-
 
 ## Team conflict
 
