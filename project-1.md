@@ -1,6 +1,10 @@
 # Project 1 
 
+## Description
+
 In this project, you will work in small team to design a product, service, or social design intervention. In some cases, you may not have time or resources to produce a functional implementation or prototype of your teams project, but you should at least have a well formed project document. Your team will build your own project sprint structure by selecting sprint elements and setting them to a timeline. After the design sprint period is over, you will evaluate how it went.
+
+## Objectives
 
 **The purpose of this project is to help you: **
 
@@ -22,13 +26,11 @@ Week 6 - Phase 5
 Week 7 - Phase 6
 
 
-## Overview
+## Project phases breakdown
 
-The co-design 
+### Phase 1: Gather and organize
 
-### Phase 1: Team meet and greet
-
-Please begin to establish meeting times and begin to assemble meeting agendas with the entire team.
+Meet with your team and begin to establish meeting times and meeting agendas.
 
 #### Agenda items for design meetings
 
@@ -39,11 +41,12 @@ The following are some recommended items to consider for meeting agendas. Ultima
 3. Identify meeting times
 4. Discuss types of digital media workflows, tools, and projects that are of interest to the group
 5. Identify design challenges or topics. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later to spend more time discussing.
-6. Determine a clear end goal
+6. Decide whether to assign team member roles. If roles are desired, what are they and who are they assigned to?
+7. Determine a clear project outcomes and goals
 
 ### Phase 2: Pitch
 
-Produce a Pecha-kucha style presentation. Please inlcude:
+Produce a short Pecha-kucha style presentation that explains the. Please inlcude:
 
 1. Video: Clearly legible text or voice narration
   - If doing voice narration, you can choose one team member to narrative, or have different members contribute narration of different slides.
@@ -63,7 +66,7 @@ Produce a Pecha-kucha style presentation. Please inlcude:
 
 ![sprint timeline graphic](/assets/timeline@2x.png)
 
-**Rule number one in art and design - if it's not documented, it never happened.** Please keep detailed and dated notes, photos, screenshots, video recordings, and other forms of documentation of team meetings, brainstorm sessions, concept research, design sprints or working session outcomes, etc. This will help you immensely when crafting the project document.
+**Rule number one in art and design - if it's not documented, it never happened.** Please keep detailed and dated notes, photos, screenshots, video recordings, and other forms of documentation of team meetings, brainstorm sessions, concept research, design sprints or working session outcomes, etc. This will help your team immensely when crafting the project document, and will mostly likely be referred back to quite often. Consider keeping these materials in a shared team folder. See [collaboration tools](/collaboration-tools.md) for information on available resources.
 
 ### Phase 5: Project document
  
