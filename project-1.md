@@ -4,6 +4,14 @@
 
 In this project, you will work in small team to design a product, service, or social design intervention. In some cases, you may not have time or resources to produce a functional implementation or prototype of your teams project, but you should at least have a well formed project document proposal. Your team will build it's own project sprint structure by selecting design process elements and setting them to a timeline. Your teem will set meeting agendas, create a concept pitch, develop and use a custom design sprint structure, track and document a process using a project blog, and produce project documentation.
 
+**The project's concept focus word:** Nudge
+
+**Research starting points:**
+
+- [NPR TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/483080945/nudge)
+- [PSU Library resources](https://psu.summon.serialssolutions.com/search?s.fvf=SourceType%2CLibrary+Catalog%2Cf&s.q=nudge+unit&s.l=en#!/search?ho=t&fvf=SourceType,Library%20Catalog,f&l=en&q=design%20nudge)
+- [Freakonomics Podcast: Big Returns From Small Thinking](http://freakonomics.com/podcast/big-returns-thinking-small/)
+
 ## Objectives
 
 **The purpose of this project is to help you: **
@@ -31,8 +39,6 @@ In this project, you will work in small team to design a product, service, or so
   - Phase 4: Sprint!
 - Week 6
   - Phase 5: Project document
-- Week 7
-  - Phase 6
 
 ## Project overview
 
