@@ -31,7 +31,7 @@ Add [OER Schema](http://oerschema.org) and CC License to HTML source:
 
 ### Visible attribution
 
-“[DMD 100: Digital Multimedia Design Studio](https://www.gitbook.com/book/dmd-program/dmd-300-sp17/details)” by Michael Collins is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)."
+“[DMD 300: Digital Multimedia Design Studio](https://www.gitbook.com/book/dmd-program/dmd-300-sp17/details)” by Michael Collins is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)."
 
-`<a href="https://github.com/dmd-program/dmd-100-fa18">DMD 300: Digital Multimedia Design Studio</a>” by Michael Collins is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.`
+`<a href="https://github.com/dmd-program/dmd-300-sp17">DMD 300: Digital Multimedia Design Studio</a>” by Michael Collins is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.`
 
