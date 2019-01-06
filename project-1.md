@@ -62,13 +62,18 @@ Produce a short Pecha-kucha style presentation that explains the project concept
    - Production or iteration
    - Analysis and feedback
 2. **Set roles and responsibilities.** Members may have multiple roles. See [team roles](/team-roles.md) page for a list of roles.
-3. Create a http://sites.psu.edu blog to track your project's progress.
+3. Create a project blog using [Sites and Penn State](http://sites.psu.edu) to track your team's progress.
+4. Publish a link to the project blog on the related Canvas discussion.
 
 ### Phase 4: Implement your design process
 
 ![sprint timeline graphic](/assets/timeline@2x.png)
 
 **Rule number one in art and design - if it's not documented, it never happened.** Please keep detailed and dated notes, photos, screenshots, video recordings, and other forms of documentation of team meetings, brainstorm sessions, concept research, design sprints or working session outcomes, etc. This will help your team immensely when crafting the project document, and will mostly likely be referred back to quite often. Consider keeping these materials in a shared team folder. See [collaboration tools](/collaboration-tools.md) for information on available resources.
+
+#### Submission details:
+
+1. Publish 4 - 8 posts to the http://sites.psu.edu blog that you created in Phase 3 to track your project's progress. Write descriptions for the posts.
 
 ### Phase 5: Project document
  
@@ -149,5 +154,5 @@ Though working on a design team as part of a class project can not fully mimic r
 This project is graded as a team. All members will receive the same grade.
 
 1. Team developed and executed a design process 25%
-2. Submitted project deliverables according to requirements 25%
-3. Design sprint assessment 25%
+2. Produced and submitted project deliverables according to requirements: 50%
+3. Project Blog: 25%

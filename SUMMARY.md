@@ -7,6 +7,7 @@
 * [Creating a pecha-kucha presentation](creating-a-pecha-kucha-style-pitch.md)
 * [Concept development](concept-development.md)
 * [Design process and methods](design-process-and-methods.md)
+* [Documentation resources](documentation-resources.md)
 * [Collaboration tools](collaboration-tools.md)
 * [Projects](projects.md)
   * [Writing Project](writing-project.md)
@@ -19,8 +20,4 @@
   * [Design Project 2](project-2.md)
 * Topics
   * [Designers](designers.md)
-  * [Developing a project plans](project-plans.md)
-  * [What is design?](what-is-design.md)
-* [Capstone Project Check-off Process](capstone-project-check-off-process.md)
-* [Documentation resources](documentation-resources.md)
 
