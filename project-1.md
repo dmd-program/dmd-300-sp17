@@ -16,17 +16,25 @@ In this project, you will work in small team to design a product, service, or so
 - Practice publishing skills by keeping a [team project blog](http://sites.psu.edu/)
 
 
-## Schedule
+## Schedule at a glance
 
-Week 1 - Phase 1
-Week 2 - Phase 2
-Week 3 - Phase 3, Phase 4
-Week 4 - Phase 4
-Week 5 - Phase 4
-Week 6 - Phase 5
-Week 7 - Phase 6
+- Week 1
+  - Phase 1: Gather and organize
+- Week 2
+  - Phase 2: Pitch
+- Week 3
+  - Phase 3: Develop a design sprint
+  - Phase 4: Sprint!
+- Week 4
+  - Phase 4: Sprint!
+- Week 5
+  - Phase 4: Sprint!
+- Week 6
+  - Phase 5: Project document
+- Week 7
+  - Phase 6
 
-## Project phases breakdown
+## Project overview
 
 ### Phase 1: Gather and organize
 
@@ -47,11 +55,11 @@ The following are some recommended items to consider for meeting agendas. Ultima
 
 ### Phase 2: Pitch
 
-Produce a short Pecha-kucha style presentation that explains the project concept. Please inlcude:
+Produce a short [pecha-kucha](/creating-a-pecha-kucha-style-pitch.md) style presentation that explains the project concept. Please inlcude:
 
-1. Video: Clearly legible text or voice narration
+1. **Video:** Clearly legible text or voice narration
   - If doing voice narration, you can choose one team member to narrative, or have different members contribute narration of different slides.
-2. PDF export of slides
+2. **PDF export** of slides used for the pecha-kucha video.
 
 
 ### Phase 3: Develop a design sprint
@@ -65,7 +73,7 @@ Produce a short Pecha-kucha style presentation that explains the project concept
 3. Create a project blog using [Sites and Penn State](http://sites.psu.edu) to track your team's progress.
 4. Publish a link to the project blog on the related Canvas discussion.
 
-### Phase 4: Implement your design process
+### Phase 4: Sprint!
 
 ![sprint timeline graphic](/assets/timeline@2x.png)
 
@@ -120,8 +128,7 @@ Upload the PDF document to the canvas assignment by the due date and time listed
 
 ## Team conflict
 
-Though working on a design team as part of a class project can not fully mimic real-world project teams you will encounter or already have encountered, it should suffice for helping you understand the general concepts and ideas. Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, it can be rather disruptive and counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
-
+Though working on a design team as part of a class project can not fully mimic real-world project teams you will encounter or already have encountered, it should suffice for helping you understand the general concepts and ideas. Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, it can be team dynamics can be counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
 
 ## Deliverables
 
