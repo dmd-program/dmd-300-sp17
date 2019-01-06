@@ -1,23 +1,56 @@
-# Project 1 : Co-design challenge
+# Project 1 
 
-In this project, you will work in small team to design a product, service, or social design intervention. Your team will build your own project sprint structure by selecting sprint elements and setting them to a timeline. After the design sprint period is over, you will evaluate how it went.
+In this project, you will work in small team to design a product, service, or social design intervention. In some cases, you may not have time or resources to produce a functional implementation or prototype of your teams project, but you should at least have a well formed project document. Your team will build your own project sprint structure by selecting sprint elements and setting them to a timeline. After the design sprint period is over, you will evaluate how it went.
 
-## Overview:
+**The purpose of this project is to help you: **
 
-### Week 1: Team meet and greet
+- Gain experience working in a design team
+- Practice developing a design process
+- Practice evaluating and reflecting on the effectiveness of a design process
+- Select and test design methods, techniques, and tools to produce digitally designed, critically engaged, and systemically considered creative explorations and outcomes 
+- Produce a detailed project document
 
-1. Agenda items for the meeting
-  - Introductions
-  - Decide on team collaboration tools. A more comprehensive list is located on the [collaboration tools page](/collaboration-tools.md).
-  - Identify meeting times
-  - Discuss types of digital media that are of interest to the group
-2. Identify design challenges or topics. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later.
 
-### Week 2: Seek inspiration
+## Schedule
 
-### Week 3: Develop a design sprint
+Week 1 - Phase 1
+Week 2 - Phase 2
+Week 3 - Phase 3, Phase 4
+Week 4 - Phase 4
+Week 5 - Phase 4
+Week 6 - Phase 5
+Week 7 - Phase 6
 
-![sprint timeline graphic](/assets/timeline@2x.png)
+
+## Overview
+
+The co-design 
+
+### Phase 1: Team meet and greet
+
+Please begin to establish meeting times and begin to assemble meeting agendas with the entire team.
+
+#### Agenda items for design meetings
+
+The following are some recommended items to consider for meeting agendas. Ultimately, you are responsible for crafting meetings and gatherings:
+
+1. Introductions or icebreaker
+2. Decide on team collaboration tools. A more comprehensive list is located on the [collaboration tools page](/collaboration-tools.md).
+3. Identify meeting times
+4. Discuss types of digital media workflows, tools, and projects that are of interest to the group
+5. Identify design challenges or topics. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later to spend more time discussing.
+6. Determine a clear end goal
+
+### Phase 2: Pitch
+
+Produce a Pecha-kucha style presentation. Please inlcude:
+
+1. Video: Clearly legible text or voice narration
+  - If doing voice narration, you can choose one team member to narrative, or have different members contribute narration of different slides.
+2. PDF export of slides
+
+
+### Phase 3: Develop a design sprint
 
 1. **Create a sprint timeline.** Choose design and research methods and put them to a timeline. Describe what occurs in each session. For instance, if using DesignKit or Google Venture methods, name the method explicitly:
    - Research
@@ -26,56 +59,56 @@ In this project, you will work in small team to design a product, service, or so
    - Analysis and feedback
 2. **Set roles and responsibilities.** Members may have multiple roles. See [team roles](/team-roles.md) page for a list of roles.
 
-### Week 4-6: Implement your design sprint
+### Phase 4: Implement your design process
 
-### Week 6: Project document
+![sprint timeline graphic](/assets/timeline@2x.png)
 
-1. **Project Document**.  
-   - Requirements
-     1. Cover/title page: 
-       - project title
-       - date
-       - team members
-       - course name 
-       - instructor(s)
-     2. Project summary
-       - Topic or challenge
-       - Describe why the topic is interesting, important, or novel. Does it reimagine, reframe, refactor, re-contextualize, or otherwise perform remix or invention?
-     3. Design challenge
-       - Analyze and deconstruct the issue using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form).
-       - [Identify forces that impact form](https://vimeo.com/10875362)
-       - Include figures and diagrams of these relationships
-       - Describe media used for digital production. For example, print, web, info-graphics, game/interactive, animation, video/film, audio/sound, physical installation, etc.
-     4. Team
-       - Member names and bios that include relevant interests, skills, and capabilities.
-     6. Design process overview
-       - Timeline of events
-       - List methods used with brief descriptions
-       - Anticipated outcomes of each step
-     7. Outcomes documentation
-       - Include images, diagrams, figures, drawings, links to videos and websites, etc.
-     8. Lessons learned
-       - Assess how well the design process worked. What might be done to improve upon it?
-     9. Bibliography
-   - **Formatting:** PDF document in US Letter size.
-     - Proofread and spellcheck.
+**Rule number one in art and design - if it's not documented, it never happened.** Please keep detailed and dated notes, photos, screenshots, video recordings, and other forms of documentation of team meetings, brainstorm sessions, concept research, design sprints or working session outcomes, etc. This will help you immensely when crafting the project document.
 
-### Week 7: Design sprint assessment
+### Phase 5: Project document
+ 
+#### Requirements
 
-Please fill out the design sprint assessment. You will be assessed on your ability to analyze benefits and issues inherent in your process, and your ability to imagine ways of correcting.
-Issues could include availability of team members, feeling of meaningful contribution, equal footing, roles assignment, was the brief you defined in the etc. 
+ 1. **Cover/title page:** 
+   - project title
+   - date
+   - team members
+   - course name 
+   - instructor(s)
+ 2. **Team**
+   - Member names and bios that include relevant interests, skills, and capabilities.
+ 3. **Summary**
+   - Description of topic or design challenge in a concise opening sentence or paragraph.
+   - Add details including the project's context, outstanding issues, and goals. Include aspects of how the topic is interesting, important, or novel, and how you (the team) arrived at these conclusions. what contributions does the project make or intend to make? Does it reimagine, reframe, refactor, re-contextualize, or otherwise perform remix or invention? 
+ 4. **Design process overview**
+   - Timeline of events
+   - List methods used with brief descriptions
+   - Anticipated outcomes of each step
+ 5. **Design analysis**
+   - Analyze and deconstruct the issue using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form).
+   - [Identify forces that impact form](https://vimeo.com/10875362)
+   - Are there any ethical considerations?
+   - Include figures and diagrams of these relationships
+   - Describe media used for digital production. For example, print, web, info-graphics, game/interactive, animation, video/film, audio/sound, physical installation, etc.
+ 6. **Outcomes documentation**
+   - Include any descriptions and media to describe the project.
+ 7. **Lessons learned**
+   - Assess how well the design process worked. What might be done to improve upon it?
+ 8. **Bibliography**
 
+#### Formatting requirements:
+  1. PDF document in US Letter size.
+  2. Please see documentation resources for guidance.
+  3. Proofread and spellcheck
 
+### Phase 6: Design sprint assessment
 
+Please fill out the design process assessment. You will be assessed on your ability to analyze benefits and issues inherent in your process, and your ability to imagine ways of correcting. Issues could include availability of team members, feeling of meaningful contribution, equal contributions, role assignments,  and others.
 
-## Schedule
+## Team conflict
 
-1. Read project brief
-2. Make group preferences \(Otherwise groups will be assigned by instructor\)
-3. Meet with your group members
-4. Confirm member roles
-5. Evaluate feedback
-6. Rework project pitch documents 
+Though working on a design team as part of a class project can not fully mimic real-world project teams you will encounter or already have encountered, it should suffice for helping you understand the general concepts and ideas. Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, it can be rather disruptive and counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
+
 
 ## Deliverables
 

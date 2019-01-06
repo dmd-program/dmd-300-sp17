@@ -22,4 +22,5 @@
   * [Developing a project plans](project-plans.md)
   * [What is design?](what-is-design.md)
 * [Capstone Project Check-off Process](capstone-project-check-off-process.md)
+* [Documentation resources](documentation-resources.md)
 
