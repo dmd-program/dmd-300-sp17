@@ -20,4 +20,5 @@
   * [Design Project 2](project-2.md)
 * Topics
   * [Designers](designers.md)
+* [License](license.md)
 
