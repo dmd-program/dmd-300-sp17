@@ -48,7 +48,7 @@ The following are some recommended items to consider for meeting agendas. Ultima
 
 ### Phase 2: Pitch
 
-Produce a short Pecha-kucha style presentation that explains the. Please inlcude:
+Produce a short Pecha-kucha style presentation that explains the project concept. Please inlcude:
 
 1. Video: Clearly legible text or voice narration
   - If doing voice narration, you can choose one team member to narrative, or have different members contribute narration of different slides.
@@ -84,7 +84,7 @@ Produce a short Pecha-kucha style presentation that explains the. Please inlcude
  2. **Team**
    - Member names and bios that include relevant interests, skills, and capabilities.
  3. **Summary**
-   - Description of topic or design challenge in a concise opening sentence or paragraph.
+   - Concept statement: Brief description of topic or design challenge and how it will be approached in a concise opening sentence or paragraph.
    - Add details including the project's context, outstanding issues, and goals. Include aspects of how the topic is interesting, important, or novel, and how you (the team) arrived at these conclusions. what contributions does the project make or intend to make? Does it reimagine, reframe, refactor, re-contextualize, or otherwise perform remix or invention? 
  4. **Design process overview**
    - Timeline of events
