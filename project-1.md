@@ -26,7 +26,6 @@ Week 5 - Phase 4
 Week 6 - Phase 5
 Week 7 - Phase 6
 
-
 ## Project phases breakdown
 
 ### Phase 1: Gather and organize
@@ -35,7 +34,7 @@ Meet with your team and begin to establish meeting times and meeting agendas.
 
 #### Agenda items for design meetings
 
-The following are some recommended items to consider for meeting agendas. Ultimately, you are responsible for crafting meetings and gatherings:
+The following are some recommended items to consider for meeting agendas. Ultimately, you are responsible for crafting meeting agendas:
 
 1. Introductions or icebreaker
 2. Read through the project document, look at provided resources, and discuss any questions about the project that the team may have. (Please send questions to your instructor if you are still unclear after this discussion.)
@@ -44,7 +43,7 @@ The following are some recommended items to consider for meeting agendas. Ultima
 4. Discuss types of digital media workflows, tools, and projects that are of interest to the group
 5. Identify design challenges or topics. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later to spend more time discussing.
 6. Decide whether to assign team member roles. If roles are desired, what are they and who are they assigned to?
-7. Determine a clear project outcomes and goals
+7. Determine clear project outcomes and goals
 
 ### Phase 2: Pitch
 

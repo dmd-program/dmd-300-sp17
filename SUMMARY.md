@@ -4,6 +4,8 @@
 * [Introduction](introduction.md)
 * [Schedule](schedule.md)
 * [Team roles](team-roles.md)
+* [Creating a pecha-kucha presentation](creating-a-pecha-kucha-style-pitch.md)
+* [Concept development](concept-development.md)
 * [Design process and methods](design-process-and-methods.md)
 * [Collaboration tools](collaboration-tools.md)
 * [Projects](projects.md)
@@ -16,9 +18,7 @@
     * [Documentation](project-1/documentation.md)
   * [Design Project 2](project-2.md)
 * Topics
-  * [Creating a pecha-kucha presentation](creating-a-pecha-kucha-style-pitch.md)
   * [Designers](designers.md)
-  * [Concept development](concept-development.md)
   * [Developing a project plans](project-plans.md)
   * [What is design?](what-is-design.md)
 * [Capstone Project Check-off Process](capstone-project-check-off-process.md)
