@@ -81,7 +81,7 @@ Produce a short [pecha-kucha](/creating-a-pecha-kucha-style-pitch.md) style pres
 
 #### Submission details:
 
-1. Publish 4 - 8 posts to the http://sites.psu.edu blog that you created in Phase 3 to track your project's progress. Write descriptions for the posts.
+1. Publish 4 or more detailed posts to the http://sites.psu.edu blog that you created in Phase 3 to track your project's progress. Upload media and write descriptions and other relevant information.
 
 ### Phase 5: Project document
  
@@ -129,24 +129,6 @@ Upload the PDF document to the canvas assignment by the due date and time listed
 ## Team conflict
 
 Though working on a design team as part of a class project can not fully mimic real-world project teams you will encounter or already have encountered, it should suffice for helping you understand the general concepts and ideas. Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, it can be team dynamics can be counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
-
-## Deliverables
-
-1. Pitch Proposal
-   - Defined team roles and responsibilities
-   - Topic or Issue
-   - Design process: Identify Research and Design Thinking Methods 
-2. Project Explainer Presentation 
-   - **Content Sections**
-     1. Overview
-     2. Design Principles
-     3. Outcomes
-     4. Insights/Take-aways
-   - **Formats**
-     1. Video/Screencast of the presentation being narrated with voice or text.
-     2. Export Powerpoint or Google Slides as a **PDF**. Upload only the PDF.
-3. Project Documentation
-   - PDF
 
 ## Rubric
 
