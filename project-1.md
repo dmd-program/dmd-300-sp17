@@ -41,16 +41,21 @@ The word "nudge" in the design sense refers to small adjustments or changes that
   - Phase 1: Gather and organize
 - **Week 2**
   - Phase 2: Develop a design sprint
-    - Submit: (1) Blog link, (2) Design Sprint Schedule PDF
+    - ZIP submission: (1) Blog link, (2) Design Sprint Schedule PDF
 - **Week 3**
   - Phase 3: Pitch 
+    - ZIP submission: (1) Pitch video, (2) PDF export of the slides
   - Phase 4: Sprint!
+    - Post updates to project blog
 - **Week 4**
-  - Phase 4: Sprint!
+  - Phase 4: Sprint! (continued)
+    - Post updates to project blog
 - **Week 5**
-  - Phase 4: Sprint!
+  - Phase 4: Sprint! (continued)
+    - Post updates to project blog
 - **Week 6**
   - Phase 5: Project documentation
+    - PDF document
 
 ---
 
@@ -166,7 +171,6 @@ Produce a short [pecha-kucha](/creating-a-pecha-kucha-style-pitch.md) style pres
 #### Formatting requirements:
 
 1. PDF document in US Letter size.
-2. **Filename:** `team-name.pdf`
 2. Please see [documentation resources](/documentation-resources.md) for guidance.
 3. Proofread and spellcheck
   
