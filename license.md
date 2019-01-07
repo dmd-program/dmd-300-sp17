@@ -34,4 +34,3 @@ Add [OER Schema](http://oerschema.org) and CC License to HTML source:
 “[DMD 300: Digital Multimedia Design Studio](https://www.gitbook.com/book/dmd-program/dmd-300-sp19/details)” by Michael Collins is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)."
 
 `<a href="https://github.com/dmd-program/dmd-300-sp19">DMD 300: Digital Multimedia Design Studio</a>” by Michael Collins is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.`
-
