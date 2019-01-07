@@ -29,9 +29,9 @@ In this project, you will work in small team to produce a project that. Your tea
 - **Week 1**
   - Phase 1: Gather and organize
 - **Week 2**
-  - Phase 2: Pitch
+  - Phase 2: Develop a design sprint
 - **Week 3**
-  - Phase 3: Develop a design sprint
+  - Phase 3: Pitch 
   - Phase 4: Sprint!
 - **Week 4**
   - Phase 4: Sprint!
