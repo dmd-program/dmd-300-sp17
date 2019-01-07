@@ -6,11 +6,17 @@ In this project, you will work in small team to produce a design process, digita
 
 **The project's concept focus word:** Nudge
 
-**Research starting points:**
+## Research starting points:
+
+**Related to concept focus word:**
 
 - [NPR TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/483080945/nudge)
 - [Freakonomics Podcast: Big Returns From Small Thinking](http://freakonomics.com/podcast/big-returns-thinking-small/)
 - [PSU Library resources](https://psu.summon.serialssolutions.com/search?s.fvf=SourceType%2CLibrary+Catalog%2Cf&s.q=nudge+unit&s.l=en#!/search?ho=t&fvf=SourceType,Library%20Catalog,f&l=en&q=design%20nudge)
+
+**Global issues:**
+
+- [World Economic Forum: Global Shapers Survey 2017](http://shaperssurvey2017.org/static/data/WEF_GSC_Annual_Survey_2017.pdf)
 
 ## Objectives
 
@@ -55,35 +61,41 @@ The following are some recommended items to consider for meeting agendas. Ultima
 3. Decide on team collaboration tools. A more comprehensive list is located on the [collaboration tools page](/collaboration-tools.md).
 3. Identify meeting times.
 4. Discuss types of digital media workflows, tools, and formats that are of interest to the group.
-5. Identify design challenges or topics. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later to spend more time discussing.
+5. Identify design challenges or topics. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later to spend more time discussing. The project's focus word is meant to give you a starting point, and guide any design thinking activities, similar to the ones used in the Double Diamond process in DMD100. You can [refer back to DMD100](https://dmd-program.gitbooks.io/dmd-100-sp19/content/) at any time if you do not recall the activities that were used. 
 6. Decide whether to assign team member roles. If roles are desired, what are they and who are they assigned to?
 7. Determine clear project outcomes and goals.
 
-
 ### Phase 2: Develop a design sprint
 
-You will develop a preliminary design sprint timeline document and [project blog](http://sites.psu.edu). The document should include:
+You will develop a preliminary design sprint timeline document and [project blog](http://sites.psu.edu).
 
-1. **Create a sprint timeline.** Consult the [design process and methods page](/design-process-and-methods.md) to choose design and research methods that fit your team's needs and interests. Place the chosen methods onto a design spring timeline. Name the method and describe what occurs in each session with the anticipated outcomes.
-  - Day, time, duration of session
-  - Method Name
-  - Method Description
-  - Anticipated outcomes
-2. Please include at least one method for each category. You may repeat categories and methods as often as needed:
-   - Research, discovery
-   - Ideation, concept development
-   - Production, testing, iteration
-   - Analysis, feedback
-3. **Set roles and responsibilities.** Members may have multiple roles. See [team roles](/team-roles.md) page for a list of roles.
+The document should include:
+
+1. **Cover/title page:** 
+  - **Title:** Design Sprint Schedule
+  - Date
+  - Team member names
+  - Course name
+  - Instructor(s)
+2. **Schedule:** Consult the [design process and methods page](/design-process-and-methods.md) to choose design and research methods that fit your team's needs and interests. Place the chosen methods onto a schedule. Name the method and describe what occurs in each session with the anticipated outcomes.
+  - **Session:** Day, time, duration of session
+  - **Method:** Method Name
+  - **Method used:** Include at least one method for each category in the following list. You may repeat categories and methods as often as needed, and they do not all need to be collaborative or group based:
+    - Research, discovery
+    - Ideation, concept development
+    - Production, testing, iteration
+    - Analysis, feedback
+  - **Description:** Name of the method used
+  - **Anticipated outcomes:** List what will come of the session.
 
 The project blog should be hosted using [Sites and Penn State](http://sites.psu.edu). Your team should use this blog to track the progress of the project and to show interesting project outcomes.
-  - If any project team members are concerned about privacy, project members may use a pseudonym (pen name) and in addition, the blog is able to be password protected to Penn State users. Please contact your instructor if this is a concern and need help with blog configuration.
+  - If any project team members are concerned about privacy, project members may use a pseudonym (pen name) and in addition, the blog is able to be password protected to Penn State WebAccess users. Please contact your instructor if this is a concern and need help with blog configuration.
 
 #### Submission details:
 
-1. Publish a link to the project blog on the related Canvas discussion.
+1. Publish a link to the project blog, even if currently blank, on the related Canvas discussion.
 2. Submit the link to the blog in the assignment submission
-3. Submit a
+3. Submit a timeline document in PDF format.
 
 ### Phase 3: Pitch
 
@@ -99,28 +111,30 @@ Produce a short [pecha-kucha](/creating-a-pecha-kucha-style-pitch.md) style pres
 ![sprint timeline graphic](/assets/timeline@2x.png)
 
 1. **Rule number one in art and design - if it's not documented, it never happened.** Please keep detailed and dated notes, photos, screenshots, video recordings, and other forms of documentation of team meetings, brainstorm sessions, concept research, design sprints or working session outcomes, etc. This will help your team immensely when crafting the project document, and will mostly likely be referred back to quite often. Consider keeping these materials in a shared team folder. See [collaboration tools](/collaboration-tools.md) for information on available resources.
-2. If your team feels that the design process isn't working as intended, feel free to change up the design of the sprint.
+2. **Consider setting roles and responsibilities.** Members may have multiple roles. See [team roles](/team-roles.md) page for a list of roles.
+3. If your team feels that the design process isn't working as intended, feel free to change up the design of the sprint. However, don't give up too early, sometimes you have to trust the process to give it a chance to work.
 
 #### Submission details:
 
-1. Publish 4 or more detailed posts to the http://sites.psu.edu blog that you created in Phase 3 to track your project's progress. Upload media and write descriptions and other relevant information.
+1. Publish 4 or more detailed posts to the http://sites.psu.edu blog that you created to track your project's progress from the design sprint. Upload media and write descriptions and other relevant information.
+2. The end results of the design process are included in what gets published on this blog, they do not need to be uploaded to canvas other than what is included in the project document PDF.
 
 ### Phase 5: Project document
  
 #### Requirements
 
  1. **Cover/title page:** 
-   - project title
-   - date
-   - team members
-   - course name 
-   - instructor(s)
+   - Project title
+   - Date
+   - Team members
+   - Course name 
+   - Instructor(s)
  2. **Team**
    - Member names and bios that include relevant interests, skills, and capabilities.
  3. **Summary**
    - Concept statement: Brief description of topic or design challenge and how it will be approached in a concise opening sentence or paragraph.
-   - Find a quote that relates to the project
-   - Add details including the project's context, outstanding issues, and goals. Include aspects of how the topic is interesting, important, or novel, and how you (the team) arrived at these conclusions. what contributions does the project make or intend to make? Does it reimagine, reframe, refactor, re-contextualize, or otherwise perform remix or invention? 
+   - Find and include a quote that relates to the project in some way, particularly if it's from the project's research.
+   - Add details including the project's context, outstanding issues, and goals. Include aspects of how the topic is interesting, important, or novel, and how you (the team) arrived at these conclusions. What contributions does the project make or intend to make? Does it reimagine, reframe, refactor, re-contextualize, or otherwise perform remix or invention? 
  4. **Design process overview**
    - Timeline of events
    - List methods used with brief descriptions
@@ -153,8 +167,10 @@ Though working on a design team as part of a class project can not fully mimic r
 
 ## Rubric
 
-This project is graded as a team. All members will receive the same grade.
+This project is graded as a team. All members will receive the same grade. All project deliverables must be met for the project to be graded. A non-submission or non-completion for any project phase is considered an incomplete project.
 
-1. Team developed and executed a design process 25%
+1. Team developed and executed a thoughtfully considered design process: 25%
 2. Produced and submitted project deliverables according to requirements: 50%
-3. Project Blog: 25%
+  - Blog
+  - Documentation PDF
+  - 
