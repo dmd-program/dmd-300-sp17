@@ -1,4 +1,4 @@
-# Project 1 
+# Project 1
 
 ## Description
 
@@ -12,13 +12,13 @@ The word "nudge" in the design sense refers to small adjustments or changes that
 
 **Related to concept focus word:**
 
-- [NPR TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/483080945/nudge)
-- [Freakonomics Podcast: Big Returns From Small Thinking](http://freakonomics.com/podcast/big-returns-thinking-small/)
-- [PSU Library resources](https://psu.summon.serialssolutions.com/search?s.fvf=SourceType%2CLibrary+Catalog%2Cf&s.q=nudge+unit&s.l=en#!/search?ho=t&fvf=SourceType,Library%20Catalog,f&l=en&q=design%20nudge)
+* [NPR TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/483080945/nudge)
+* [Freakonomics Podcast: Big Returns From Small Thinking](http://freakonomics.com/podcast/big-returns-thinking-small/)
+* [PSU Library resources](https://psu.summon.serialssolutions.com/search?s.fvf=SourceType%2CLibrary+Catalog%2Cf&s.q=nudge+unit&s.l=en#!/search?ho=t&fvf=SourceType,Library Catalog,f&l=en&q=design nudge)
 
 **Global issues:**
 
-- [World Economic Forum: Global Shapers Survey 2017](http://shaperssurvey2017.org/static/data/WEF_GSC_Annual_Survey_2017.pdf)
+* [World Economic Forum: Global Shapers Survey 2017](http://shaperssurvey2017.org/static/data/WEF_GSC_Annual_Survey_2017.pdf)
 
 ---
 
@@ -26,36 +26,36 @@ The word "nudge" in the design sense refers to small adjustments or changes that
 
 **The purpose of this project is to help you: **
 
-- Gain experience working in a design team
-- Practice developing a design process
-- Practice evaluating and reflecting on the effectiveness of a design process
-- Select and test design methods, techniques, and tools to produce digitally designed, critically engaged, and systemically considered creative explorations and outcomes 
-- Produce a detailed project documentation
-- Practice publishing skills by keeping a [team project blog](http://sites.psu.edu/)
+* Gain experience working in a design team
+* Practice developing a design process
+* Practice evaluating and reflecting on the effectiveness of a design process
+* Select and test design methods, techniques, and tools to produce digitally designed, critically engaged, and systemically considered creative explorations and outcomes 
+* Produce a detailed project documentation
+* Practice publishing skills by keeping a [team project blog](http://sites.psu.edu/)
 
 ---
 
 ## Schedule at a glance
 
-- **Week 1**
-  - Phase 1: Gather and organize
-- **Week 2**
-  - Phase 2: Develop a design sprint
-    - ZIP submission: (1) Blog link, (2) Design Sprint Schedule PDF
-- **Week 3**
-  - Phase 3: Pitch 
-    - ZIP submission: (1) Pitch video, (2) PDF export of the slides
-  - Phase 4: Sprint!
-    - Post updates to project blog
-- **Week 4**
-  - Phase 4: Sprint! (continued)
-    - Post updates to project blog
-- **Week 5**
-  - Phase 4: Sprint! (continued)
-    - Post updates to project blog
-- **Week 6**
-  - Phase 5: Project documentation
-    - PDF document
+* **Week 1**
+  * Phase 1: Gather and organize
+* **Week 2**
+  * Phase 2: Develop a design sprint
+    * ZIP submission: \(1\) Blog link, \(2\) Design Sprint Schedule PDF
+* **Week 3**
+  * Phase 3: Pitch 
+    * ZIP submission: \(1\) Pitch video, \(2\) PDF export of the slides
+  * Phase 4: Design sprint updates \#1
+    * Post updates to project blog
+* **Week 4**
+  * Phase 4: Design sprint updates \#2
+    * Post updates to project blog
+* **Week 5**
+  * Phase 4: Design sprint updates \#3
+    * Post updates to project blog
+* **Week 6**
+  * Phase 5: Project documentation
+    * PDF document
 
 ---
 
@@ -70,13 +70,13 @@ Meet with your team and begin to establish meeting times and meeting agendas.
 The following are some recommended items to consider for meeting agendas. Ultimately, you are responsible for crafting meeting agendas:
 
 1. Introductions or icebreaker
-2. Read through the project document, look at provided resources, and discuss any questions about the project that the team may have (Please send questions to your instructor if you are still unclear after this discussion).
+2. Read through the project document, look at provided resources, and discuss any questions about the project that the team may have \(Please send questions to your instructor if you are still unclear after this discussion\).
 3. Decide on team collaboration tools. A more comprehensive list is located on the [collaboration tools page](/collaboration-tools.md).
-3. Identify meeting times.
-4. Discuss types of digital media workflows, tools, and formats that are of interest to the group.
-5. Identify design challenges or topics. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later to spend more time discussing. The project's focus word is meant to give you a starting point, and guide any design thinking activities, similar to the ones used in the Double Diamond process in DMD100. You can [refer back to DMD100](https://dmd-program.gitbooks.io/dmd-100-sp19/content/) at any time if you do not recall the activities that were used. 
-6. Decide whether to assign team member roles. If roles are desired, what are they and who are they assigned to?
-7. Determine clear project outcomes and goals.
+4. Identify meeting times.
+5. Discuss types of digital media workflows, tools, and formats that are of interest to the group.
+6. Identify design challenges or topics. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later to spend more time discussing. The project's focus word is meant to give you a starting point, and guide any design thinking activities, similar to the ones used in the Double Diamond process in DMD100. You can [refer back to DMD100](https://dmd-program.gitbooks.io/dmd-100-sp19/content/) at any time if you do not recall the activities that were used. 
+7. Decide whether to assign team member roles. If roles are desired, what are they and who are they assigned to?
+8. Determine clear project outcomes and goals.
 
 ### Phase 2: Develop a design sprint
 
@@ -85,46 +85,47 @@ You will develop a preliminary design sprint schedule document and [project blog
 The document should include:
 
 1. **Cover/title page** 
-  - **Title:** Design Sprint Schedule
-  - Date
-  - Team member names
-  - Course name
-  - Instructor(s)
+   * **Title:** Design Sprint Schedule
+   * Date
+   * Team member names
+   * Course name
+   * Instructor\(s\)
 2. **Schedule:** Consult the [design process and methods page](/design-process-and-methods.md) to choose design and research methods that fit your team's needs and interests. Place the chosen methods onto a schedule. Name the method and describe what occurs in each session with the anticipated outcomes.
-  - **Session:** Day, time, duration of session
-  - **Method name:** Include one or more methods for each category in the following list. You may repeat categories and methods as often as needed, and they do not all need to be collaborative or group based:
-    - Research, discovery
-    - Ideation, concept development
-    - Production, testing, iteration
-    - Analysis, feedback
-  - **Description:** Briefly describe how the method works and the anticipated outcomes from using the method. 
+   * **Session:** Day, time, duration of session
+   * **Method name:** Include one or more methods for each category in the following list. You may repeat categories and methods as often as needed, and they do not all need to be collaborative or group based:
+     * Research, discovery
+     * Ideation, concept development
+     * Production, testing, iteration
+     * Analysis, feedback
+   * **Description:** Briefly describe how the method works and the anticipated outcomes from using the method. 
 
 The project blog should be hosted using [Sites and Penn State](http://sites.psu.edu). Your team should use this blog to track the progress of the project and to show interesting project outcomes.
-  - If any project team members are concerned about privacy, project members may use a pseudonym (pen name) and in addition, the blog is able to be password protected to Penn State WebAccess users. Please contact your instructor if this is a concern and need help with blog configuration.
+
+* If any project team members are concerned about privacy, project members may use a pseudonym \(pen name\) and in addition, the blog is able to be password protected to Penn State WebAccess users. Please contact your instructor if this is a concern and need help with blog configuration.
 
 #### Submission details:
 
 1. Publish a link to the project blog, even if currently blank, on the related Canvas discussion.
 2. Upload a .zip file to the canvas assignment that includes:
-  - Link to the blog in the assignment submission
-  - Design Sprint Schedule document in PDF format.
+   * Link to the blog in the assignment submission
+   * Design Sprint Schedule document in PDF format.
 
 ### Phase 3: Pitch
 
 Produce a short [pecha-kucha](/creating-a-pecha-kucha-style-pitch.md) style presentation that explains the project concept. Use presentation software to design the presentation. Please include:
 
 1. **Video:** Clearly legible text or voice narration
-  - If doing voice narration, you can choose one team member to narrative, or have different members contribute narration of different slides.
+   * If doing voice narration, you can choose one team member to narrative, or have different members contribute narration of different slides.
 2. **PDF export** of slides used for the pecha-kucha video.
 
 #### Submission details:
 
 1. Post the pitch to the project blog.
 2. Upload a .zip file to the canvas assignment that includes:
-  - Pitch video (Please export/compress this video. It should be less the 500MB in filesize)
-  - PDF export of the slides
+   * Pitch video \(Please export/compress this video. It should be less the 500MB in filesize\)
+   * PDF export of the slides
 
-### Phase 4: Sprint!
+### Phase 4: Design sprint
 
 ![sprint timeline graphic](/assets/timeline@2x.png)
 
@@ -134,46 +135,46 @@ Produce a short [pecha-kucha](/creating-a-pecha-kucha-style-pitch.md) style pres
 
 #### Submission details:
 
-1. Publish 4 or more detailed posts to the http://sites.psu.edu blog that you created to track your project's progress from the design sprint. Upload media and write descriptions and other relevant information.
+1. Publish 4 or more detailed posts to the [http://sites.psu.edu](http://sites.psu.edu) blog that you created to track your project's progress from the design sprint. Upload media and write descriptions and other relevant information.
 2. The end results of the design process are included in what gets published on this blog, they do not need to be uploaded to canvas other than what is included in the project document PDF.
 
 ### Phase 5: Project document
- 
+
 #### Requirements
 
- 1. **Cover/title page:** 
-   - Project title
-   - Date
-   - Team members
-   - Course name 
-   - Instructor(s)
- 2. **Team**
-   - Member names and bios that include relevant interests, skills, and capabilities.
- 3. **Summary**
-   - Concept statement: Brief description of topic or design challenge and how it will be approached in a concise opening sentence or paragraph.
-   - Find and include a quote that relates to the project in some way, particularly if it's from the project's research.
-   - Add details including the project's context, outstanding issues, and goals. Include aspects of how the topic is interesting, important, or novel, and how you (the team) arrived at these conclusions. What contributions does the project make or intend to make? Does it reimagine, reframe, refactor, re-contextualize, or otherwise perform remix or invention? 
- 4. **Design process overview**
-   - Timeline of events
-   - List methods used with brief descriptions
-   - Anticipated outcomes of each step and how they contributed to the project's development.
- 5. **Outcomes**
-   - Analyze and deconstruct central issues using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form).
-   - [Identify forces that impact form](https://vimeo.com/10875362)
-   - Are there any ethical considerations?
-   - Include figures and diagrams of conceptual relationships
-   - Describe media used in digital production. For example, print, web, info-graphics, game/interactive, animation, video/film, audio/sound, physical installation, etc.
- 7. **Lessons learned**
-   - Assess how well the design process worked. What might be done to improve upon it or mitigate issues? All team members should candidly provide any issues they experienced or observed. These issues could include: Availability of team members, feeling of meaningful or equal contribution, types of design exercises used, role assignments, etc.
- 8. **Bibliography**
-   - You can choose either APA or MLA format for document. See [documentation resources](/documentation-resources.md) for help.
+1. **Cover/title page:** 
+   * Project title
+   * Date
+   * Team members
+   * Course name 
+   * Instructor\(s\)
+2. **Team**
+   * Member names and bios that include relevant interests, skills, and capabilities.
+3. **Summary**
+   * Concept statement: Brief description of topic or design challenge and how it will be approached in a concise opening sentence or paragraph.
+   * Find and include a quote that relates to the project in some way, particularly if it's from the project's research.
+   * Add details including the project's context, outstanding issues, and goals. Include aspects of how the topic is interesting, important, or novel, and how you \(the team\) arrived at these conclusions. What contributions does the project make or intend to make? Does it reimagine, reframe, refactor, re-contextualize, or otherwise perform remix or invention? 
+4. **Design process overview**
+   * Timeline of events
+   * List methods used with brief descriptions
+   * Anticipated outcomes of each step and how they contributed to the project's development.
+5. **Outcomes**
+   * Analyze and deconstruct central issues using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form).
+   * [Identify forces that impact form](https://vimeo.com/10875362)
+   * Are there any ethical considerations?
+   * Include figures and diagrams of conceptual relationships
+   * Describe media used in digital production. For example, print, web, info-graphics, game/interactive, animation, video/film, audio/sound, physical installation, etc.
+6. **Lessons learned**
+   * Assess how well the design process worked. What might be done to improve upon it or mitigate issues? All team members should candidly provide any issues they experienced or observed. These issues could include: Availability of team members, feeling of meaningful or equal contribution, types of design exercises used, role assignments, etc.
+7. **Bibliography**
+   * You can choose either APA or MLA format for document. See [documentation resources](/documentation-resources.md) for help.
 
 #### Formatting requirements:
 
 1. PDF document in US Letter size.
 2. Please see [documentation resources](/documentation-resources.md) for guidance.
 3. Proofread and spellcheck
-  
+
 #### Submission details:
 
 Upload the PDF document to the canvas assignment by the due date and time listed.
@@ -192,6 +193,9 @@ This project is graded as a team. All members will receive the same grade. All p
 
 1. Team developed and executed a thoughtfully considered design process: 25%
 2. Produced and submitted project deliverables according to requirements: 50%
-  - Blog
-  - Documentation PDF
-  - 
+   * Blog
+   * Documentation PDF
+   * 
+
+
+
