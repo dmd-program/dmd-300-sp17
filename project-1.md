@@ -45,15 +45,15 @@ The word "nudge" in the design sense refers to small adjustments or changes that
 * **Week 3**
   * Phase 3: Pitch 
     * ZIP submission: \(1\) Pitch video, \(2\) PDF export of the slides
+* **Week 4**
   * Phase 4: Design sprint updates \#1
     * Post updates to project blog
-* **Week 4**
+* **Week 5**
   * Phase 4: Design sprint updates \#2
     * Post updates to project blog
-* **Week 5**
+* **Week 6**
   * Phase 4: Design sprint updates \#3
     * Post updates to project blog
-* **Week 6**
   * Phase 5: Project documentation
     * PDF document
 
