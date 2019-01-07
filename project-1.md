@@ -6,7 +6,7 @@ In this project, you will work in small team to produce a design process, digita
 
 **The project's concept focus word:** Nudge
 
-## Research starting points:
+### Research starting points:
 
 **Related to concept focus word:**
 
@@ -17,6 +17,8 @@ In this project, you will work in small team to produce a design process, digita
 **Global issues:**
 
 - [World Economic Forum: Global Shapers Survey 2017](http://shaperssurvey2017.org/static/data/WEF_GSC_Annual_Survey_2017.pdf)
+
+---
 
 ## Objectives
 
@@ -29,6 +31,7 @@ In this project, you will work in small team to produce a design process, digita
 - Produce a detailed project documentation
 - Practice publishing skills by keeping a [team project blog](http://sites.psu.edu/)
 
+---
 
 ## Schedule at a glance
 
@@ -44,7 +47,9 @@ In this project, you will work in small team to produce a design process, digita
 - **Week 5**
   - Phase 4: Sprint!
 - **Week 6**
-  - Phase 5: Project document
+  - Phase 5: Project documentation
+
+---
 
 ## Project overview
 
@@ -166,9 +171,13 @@ Produce a short [pecha-kucha](/creating-a-pecha-kucha-style-pitch.md) style pres
 
 Upload the PDF document to the canvas assignment by the due date and time listed.
 
+---
+
 ## Team conflict
 
 Though working on a design team as part of a class project can not fully mimic real-world project teams you will encounter or already have encountered, it should suffice for helping you understand the general concepts and ideas. Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, team dynamics can be counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
+
+---
 
 ## Rubric
 
