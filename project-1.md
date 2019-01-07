@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, you will work in small team to produce a project that. Your team will build it's own project sprint structure by selecting design process elements and setting them to a timeline. Your teem will set meeting agendas, create a concept pitch, develop and use a custom design sprint structure, track and document a process using a project blog, and produce project documentation. The project outcomes can take the form of any combination of digital media formats including 2D, 3D, video and motion design, interactive and web, UX/UI app design, and product design. The projects could emphasize a wide range of approaches including tool building, product or service, marketing or awareness campaigns, calls to action, open-source tools, traditional or experimental digital story telling, wayfinding, identity systems, toolkits, educational materials, etc.
+In this project, you will work in small team to produce a design process, digital media, and documentation. Your team will build it's own project by setting meeting agendas, creating a concept pitch, develop and use a design process/sprint structure, track and document progress using a project blog, and produce project documentation. The project outcomes can take the form of any combination of digital media formats including 2D, 3D, video and motion design, interactive and web, UX/UI app design, and product design. The projects could emphasize a wide range of approaches including tool building, product or service, marketing or awareness campaigns, calls to action, open-source tools, traditional or experimental digital story telling, speculative design, wayfinding, identity systems, toolkits, educational materials, etc.
 
 **The project's concept focus word:** Nudge
 
@@ -62,16 +62,30 @@ The following are some recommended items to consider for meeting agendas. Ultima
 
 ### Phase 2: Develop a design sprint
 
-1. **Create a sprint timeline.** Choose design and research methods and put them to a timeline. Describe what occurs in each session. For instance, if using DesignKit or Google Venture methods, name the method explicitly:
-   - Research
-   - Ideation or concept development
-   - Production or iteration
-   - Analysis and feedback
-2. **Set roles and responsibilities.** Members may have multiple roles. See [team roles](/team-roles.md) page for a list of roles.
-3. Create a project blog using [Sites and Penn State](http://sites.psu.edu) to track your team's progress.
-4. Publish a link to the project blog on the related Canvas discussion.
+You will develop a preliminary design sprint timeline document and [project blog](http://sites.psu.edu). The document should include:
 
-### Phase 2: Pitch
+1. **Create a sprint timeline.** Consult the [design process and methods page](/design-process-and-methods.md) to choose design and research methods that fit your team's needs and interests. Place the chosen methods onto a design spring timeline. Name the method and describe what occurs in each session with the anticipated outcomes.
+  - Day, time, duration of session
+  - Method Name
+  - Method Description
+  - Anticipated outcomes
+2. Please include at least one method for each category. You may repeat categories and methods as often as needed:
+   - Research, discovery
+   - Ideation, concept development
+   - Production, testing, iteration
+   - Analysis, feedback
+3. **Set roles and responsibilities.** Members may have multiple roles. See [team roles](/team-roles.md) page for a list of roles.
+
+The project blog should be hosted using [Sites and Penn State](http://sites.psu.edu). Your team should use this blog to track the progress of the project and to show interesting project outcomes.
+  - If any project team members are concerned about privacy, project members may use a pseudonym (pen name) and in addition, the blog is able to be password protected to Penn State users. Please contact your instructor if this is a concern and need help with blog configuration.
+
+#### Submission details:
+
+1. Publish a link to the project blog on the related Canvas discussion.
+2. Submit the link to the blog in the assignment submission
+3. Submit a
+
+### Phase 3: Pitch
 
 Produce a short [pecha-kucha](/creating-a-pecha-kucha-style-pitch.md) style presentation that explains the project concept. Please inlcude:
 
@@ -110,9 +124,9 @@ Produce a short [pecha-kucha](/creating-a-pecha-kucha-style-pitch.md) style pres
  4. **Design process overview**
    - Timeline of events
    - List methods used with brief descriptions
-   - Anticipated outcomes of each step
+   - Anticipated outcomes of each step and how they contributed to the project's development.
  5. **Outcomes**
-   - Analyze and deconstruct the issue using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form).
+   - Analyze and deconstruct central issues using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form).
    - [Identify forces that impact form](https://vimeo.com/10875362)
    - Are there any ethical considerations?
    - Include figures and diagrams of conceptual relationships
@@ -135,7 +149,7 @@ Upload the PDF document to the canvas assignment by the due date and time listed
 
 ## Team conflict
 
-Though working on a design team as part of a class project can not fully mimic real-world project teams you will encounter or already have encountered, it should suffice for helping you understand the general concepts and ideas. Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, it can be team dynamics can be counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
+Though working on a design team as part of a class project can not fully mimic real-world project teams you will encounter or already have encountered, it should suffice for helping you understand the general concepts and ideas. Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, team dynamics can be counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
 
 ## Rubric
 
