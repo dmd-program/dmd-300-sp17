@@ -4,6 +4,8 @@ DMD 300 is the second of three spine courses in the Bachelor of Design in Digita
 
 Visit the [DMD Program Hub](http://dmd.psu.edu/) for more details.
 
+
+
 ## Contributors
 
 **Primary Course Author**

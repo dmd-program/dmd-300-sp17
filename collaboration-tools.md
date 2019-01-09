@@ -18,7 +18,7 @@
 4. **Collaborative writing tools**
   1. Google Docs
     - Features include track changes, comments, chat, export as pdf, etc.
-  3. Office 365 docs
+  3. [Office365](https://office365.psu.edu) docs
     - Features include track changes, comments, chat, export as pdf, etc.
   5. [Gitbook.com](https://www.gitbook.com) and Github.com
     - Developer centric writing and collaboration.
