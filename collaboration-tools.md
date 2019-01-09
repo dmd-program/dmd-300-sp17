@@ -10,6 +10,8 @@
     - Skype
     - Google Hangouts
   2. Team management and tasks
+    - Canvas group's page
+      - team discussions, announcements, conferences, files, etc.
     - Slack \([dmd-program.slack.com](http://dmd-program.slack.com)\)
     - [Trello](https://trello.com)
     - [Waffle.io](https://waffle.io) and Github.com
