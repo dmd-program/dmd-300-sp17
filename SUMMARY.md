@@ -12,4 +12,6 @@
   * [Documentation resources](documentation-resources.md)
 * [Projects](projects.md)
   * [Design Project 1](project-1.md)
+  * [Design Project 2 ](design-project-2.md)
 * [License](license.md)
+
