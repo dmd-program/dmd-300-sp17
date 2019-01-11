@@ -39,26 +39,52 @@ The word "nudge" in the design sense refers to small adjustments or changes that
 
 * **Week 1**
   * Phase 1: Gather and organize
+  * Weekly Report 1
+    * Submit a report in Canvas
 * **Week 2**
   * Phase 2: Develop a design sprint
-    * ZIP submission: \(1\) Blog link, \(2\) Design Sprint Schedule PDF
+    * Cavnas ZIP submission: \(1\) Blog link, \(2\) Design Sprint Schedule PDF
+  * Weekly Report 2
+    * Submit a report in Canvas
 * **Week 3**
   * Phase 3: Pitch 
-    * ZIP submission: \(1\) Pitch video, \(2\) PDF export of the slides
+    * Cavnas ZIP submission: \(1\) Pitch video, \(2\) PDF export of the slides
+  * Weekly Report 3
+    * Submit a report in Canvas
 * **Week 4**
   * Phase 4: Design sprint updates \#1
     * Post updates to project blog
+  * Weekly Report 4
+    * Submit a report in Canvas
 * **Week 5**
   * Phase 4: Design sprint updates \#2
     * Post updates to project blog
+  * Weekly Report 5
+    * Submit a report in Canvas
 * **Week 6**
   * Phase 4: Design sprint updates \#3
     * Post updates to project blog
   * Phase 5: Project documentation
-    * PDF document
+    * PDF document submitted to Canvas
+  * Weekly Report 6
+    * Submit a report in Canvas
 
 ---
+## Weekly Activity Reports
 
+
+At the end of each week, you will submit a short report of group project activity. I'd like you to include the following:
+
+1. **Title:** Weekly Report # (e.g. Weekly Report #3)
+2. **Your Name**
+3. **Group Members:** (names)
+4. **Activity description**
+  - Your contributions for the week
+  - Describe contributions to the project from other members
+5. **General comments:**
+  - Briefly talk about how things are going. This is the space to complain, brag, comment on challenges you are facing, or talk about things that are going really well.
+
+---
 ## Project overview
 
 ### Phase 1: Gather and organize
