@@ -73,7 +73,9 @@ The word "nudge" in the design sense refers to small adjustments or changes that
 ## Weekly Activity Reports
 
 
-At the end of each week, you will submit a short report of group project activity. I'd like you to include the following:
+At the end of each week, you will submit a short report of group project activity. This shows that you understand what each member is contributing and demonstrates your own contributions to the project.
+
+### Requirements:
 
 1. **Title:** Weekly Report # (e.g. Weekly Report #3)
 2. **Your Name**
@@ -84,6 +86,10 @@ At the end of each week, you will submit a short report of group project activit
 5. **General comments:**
   - Briefly talk about how things are going. This is the space to complain, brag, comment on challenges you are facing, or talk about things that are going really well.
   
+### Rubric
+1. Fullfilled all report requirements. (40%)
+2. Demonstrated significant group or team project contributions. (60%)
+
 ### Submission
 
 Please upload this to canvas as either a word document (`.doc`, `.docx`), or written in the text submission field.
