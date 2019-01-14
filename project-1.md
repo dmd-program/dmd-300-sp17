@@ -80,7 +80,7 @@ At the end of each week, you will submit a short report of group project activit
 3. **Group Members:** (names)
 4. **Activity description**
   - Your contributions for the week
-  - Describe contributions to the project from other members
+  - Describe contributions to the project from each member.
 5. **General comments:**
   - Briefly talk about how things are going. This is the space to complain, brag, comment on challenges you are facing, or talk about things that are going really well.
 
