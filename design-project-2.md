@@ -31,7 +31,7 @@ Design Project 2 is meant to mimic the format of the capstone project, with a bi
 2. Choose Design Area of Focus
 3. Develop a project plan
 4. Develop a software pipeline
-5. Develop petcha-kucha pitch presentation and PDF pitch document
+5. Develop pecha-kucha pitch presentation and PDF pitch document
 6. Evaluate pitch feedback
 7. Re-work project pitch documents based on feedback
 
