@@ -83,6 +83,10 @@ At the end of each week, you will submit a short report of group project activit
   - Describe contributions to the project from each member.
 5. **General comments:**
   - Briefly talk about how things are going. This is the space to complain, brag, comment on challenges you are facing, or talk about things that are going really well.
+  
+### Submission
+
+Please upload this to canvas as either a word document (`.doc`, `.docx`), or written in the text submission field.
 
 ---
 ## Project overview
