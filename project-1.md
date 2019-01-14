@@ -70,7 +70,21 @@ The word "nudge" in the design sense refers to small adjustments or changes that
     * Submit a report in Canvas
 
 ---
+## Weekly Activity Reports
 
+
+At the end of each week, you will submit a short report of group project activity. I'd like you to include the following:
+
+1. **Title:** Weekly Report # (e.g. Weekly Report #3)
+2. **Your Name**
+3. **Group Members:** (names)
+4. **Activity description**
+  - Your contributions for the week
+  - Describe contributions to the project from other members
+5. **General comments:**
+  - Briefly talk about how things are going. This is the space to complain, brag, comment on challenges you are facing, or talk about things that are going really well.
+
+---
 ## Project overview
 
 ### Phase 1: Gather and organize
