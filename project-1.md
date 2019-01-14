@@ -39,23 +39,35 @@ The word "nudge" in the design sense refers to small adjustments or changes that
 
 * **Week 1**
   * Phase 1: Gather and organize
+  * Weekly Report 1
+    * Submit a report in Canvas
 * **Week 2**
   * Phase 2: Develop a design sprint
-    * ZIP submission: \(1\) Blog link, \(2\) Design Sprint Schedule PDF
+    * Cavnas ZIP submission: \(1\) Blog link, \(2\) Design Sprint Schedule PDF
+  * Weekly Report 2
+    * Submit a report in Canvas
 * **Week 3**
   * Phase 3: Pitch 
-    * ZIP submission: \(1\) Pitch video, \(2\) PDF export of the slides
+    * Cavnas ZIP submission: \(1\) Pitch video, \(2\) PDF export of the slides
+  * Weekly Report 3
+    * Submit a report in Canvas
 * **Week 4**
   * Phase 4: Design sprint updates \#1
     * Post updates to project blog
+  * Weekly Report 4
+    * Submit a report in Canvas
 * **Week 5**
   * Phase 4: Design sprint updates \#2
     * Post updates to project blog
+  * Weekly Report 5
+    * Submit a report in Canvas
 * **Week 6**
   * Phase 4: Design sprint updates \#3
     * Post updates to project blog
   * Phase 5: Project documentation
-    * PDF document
+    * PDF document submitted to Canvas
+  * Weekly Report 6
+    * Submit a report in Canvas
 
 ---
 
