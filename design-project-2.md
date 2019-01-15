@@ -25,6 +25,15 @@ Design Project 2 is meant to mimic the format of the capstone project, with a bi
 * Presentation quality
 * Emphasis on presence of design language
 
+## Peer reviews
+
+**Inductive process:** Describe, analyze, interpret, informed comment (judgement).
+
+1. **Describe:** What do you see?
+2. **Analyze:** What do you know about it. What is happening or not happening.
+3. **Interpret:** What could be happening or shouldn't happen?
+4. **Informed comment:** Use design language to comment on the work.
+
 ## Project template
 
 1. Read project brief
