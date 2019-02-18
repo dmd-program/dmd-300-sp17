@@ -14,7 +14,6 @@
   * [Design Project 1](project-1.md)
   * Design Project 2
     * [Project 2 Description](design-project-2/project-description.md)
-    * [Project 2 Schedule](design-project-2/schedule.md)
     * [Project 2 Concept Pitch](design-project-2/project-2-concept-pitch.md)
     * [Project 2 Work Statement](design-project-2/project-2-work-statement.md)
     * [Project 2 Production Reports](design-project-2/project-2-production-reports.md)

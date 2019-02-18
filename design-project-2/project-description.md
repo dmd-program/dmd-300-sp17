@@ -62,6 +62,7 @@ Futures projects are typically optimistic works that engage with important topic
   * **Submissions:**
     1. Project Files
     2. Final Work Statement
+    3. Project Documentation
     
 ---
 
