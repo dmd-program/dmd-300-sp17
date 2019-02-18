@@ -228,8 +228,8 @@ Though working on a design team as part of a class project can not fully mimic r
 This project is graded as a team. All members will receive the same grade. All project deliverables must be met for the project to be graded. A non-submission or non-completion for any project phase is considered an incomplete project.
 
 1. Produced and submitted project deliverables according to requirements: 40%
-3. Project outcomes: 
-  - Concept 20
-  - Craft 20
-  - Design process 20
+2. Project outcomes: 
+  * Concept 20
+  * Craft 20
+  * Design process 20
 
