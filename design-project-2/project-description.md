@@ -1,5 +1,6 @@
-# Design Project 2
+# Project 2
 
+## Description
 For this project, you will produce a digital design work that critically engages with the project's theme. You will also develop a design concept, production process, and a well-articulated work statement to explains your work to a wide audience. Your work will then be collectively displayed in a class-wide online exhibition.
 
 ## Project title and theme
@@ -12,7 +13,7 @@ Choose a topic that is meaningful to you and apply it to the title template to a
 
 Futures projects are typically optimistic works that engage with important topics \(critical issues\) and examine the opportunities for improvement, change, activism, and betterment of a given situation. Futures projects are often categorized as speculative, discursive, or otherwise as critical design and tend to provide an array of potential outcomes. There are no hard definitions for how futures projects are created, but they often tend to mix fictional elements while maintaining firm grip with contemporary reality—meaning that futures projects often tend to take place or speculate about the future, yet have currency in present day life.
 
-**Example futures project topics:**
+**Example futures projects and topics:**
 
 * [Near Future Design](http://www.artisopensource.net/projects/near-future-design/)
 * [AIGA Design futures](https://www.aiga.org/aiga-design-futures/introduction-to-design-futures/)
@@ -25,7 +26,7 @@ Futures projects are typically optimistic works that engage with important topic
 
 ## Digital media
 
-If you are unsure of what types of digital projects are available to create, please have a look at the list of digital design project categories.
+If you are unsure of what types of digital projects are available to create, please have a look at the list of [digital design project types](/digital-design-project-types.md).
 
 ## Requirements
 
