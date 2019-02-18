@@ -1,14 +1,13 @@
-# Project 2 Concept Pitch
+# Project 2 concept pitch
 
-This concept pitch serves as a communication tool, and also as a means of ensuring that you develop a project with that can be reasonably accomplished in the given timeframe.
-
-The basic structure is as follows:
+The concept pitch is a presentation document that serves as a both a communication tool and as a means of ensuring that you develop a project with that can be reasonably accomplished in the given timeframe. This project concept pitch should have no less than 10 slides. The basic structure is as follows:
 
 1. **Title slide**
    1. Title
    2. Name
-   3. date
-   4. Course
+   3. Date
+   4. Course ("DMD 300: Digital Multimedia Design Studio")
+   5. Semester (Example: "Spring 2019")
 2. **Bio**
   - Here you will list what you know, and what you are interested in. This should be related to the project concept. \(IE - if you are skilled and interested in web development, it would be confusing to then propose an animation project.\)
   - List existing digital media skills and other relevant skills.
