@@ -2,7 +2,6 @@
 
 * [About](README.md)
 * [Introduction](introduction.md)
-* [Schedule](schedule.md)
 * Resources
   * [Collaboration tools](collaboration-tools.md)
   * [Creating a pecha-kucha presentation](creating-a-pecha-kucha-style-pitch.md)
