@@ -10,6 +10,7 @@
   * [Concept development](concept-development.md)
   * [Design process and methods](design-process-and-methods.md)
   * [Documentation resources](documentation-resources.md)
+  * [Digital Design Project Types](digital-design-project-types.md)
 * [Projects](projects.md)
   * [Design Project 1](project-1.md)
   * [Design Project 2 ](design-project-2.md)
