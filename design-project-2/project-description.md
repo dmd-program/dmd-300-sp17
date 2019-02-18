@@ -13,7 +13,7 @@ If you are unsure of what types of digital projects are available to create, ple
 ## Requirements
 
 1. 500 Word Minimum Work Statement
-3. Fully functional digital artifacts
+2. Fully functional digital artifacts
 
 ## Deliverables
 
@@ -38,10 +38,11 @@ Exhibitions typically have a central theme—a conceptual thread that links the 
 
 All project deliverables must be met for the project to be graded. A non-submission or non-completion for any part of the project is considered an incomplete project.
 
-1. Produced and submitted project deliverables according to requirements: 40%
+1. Produced and submitted project deliverables according to requirements: 20%
 2. Project outcomes: 
    * Concept: 20%
    * Craft: 20%
+   * Work Statement: 20%
    * Participation in online exhibition: 20%
 
 
