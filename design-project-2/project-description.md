@@ -32,8 +32,8 @@ Futures projects are typically optimistic works that engage with important topic
 3. **[Production Reports](/design-project-2/project-2-production-reports.md)** (Production blog)
 4. **[Work statement](/design-project-2/project-2-work-statement.md)** that uses design language (Canvas)
 5. **Project files:** (Canvas)
-  1. Any of the following: High quality images, photographs, video, PDF document, executable file for download (macOS and Windows compatible), Zip archive of files, URL of live hosted website \(not a link to a paid web service such as InvisionApp\), production blog URL, etc.
-  2. For archival purposes, the files must be as self-contained as possible. (I.E.–if I were to look at them without an Internet connection, would the project still work?)
+  1. The following are examples of project file types: High resolution images, photographs, video, PDF documents, executable file for download (macOS and Windows compatible), Zip archive of files, URL of live website \(not a link to a paid web service such as InvisionApp\), production blog URL, etc.
+  2. For archival purposes, the files must be as self-contained as possible. (I.E.–if I were to look at them without an Internet connection, would the project still work? This will not always be possible given the nature of certain projects.)
 6. **[Project documentation](/design-project-2/project-2-documentation.md)** (Canvas, production blog)
 7. **Online exhibition information form:** [Form Link](https://forms.office.com/Pages/ResponsePage.aspx?id=RY30fNs9iUOpwcEVUm61LpKTUYPpqWVNtct2hclEf_pUNkI5Sk9URUNURVg1RTFZOTdHMDQ3TFhVMC4u)
 

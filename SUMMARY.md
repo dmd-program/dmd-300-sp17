@@ -20,6 +20,7 @@
     * [Project 2 Work Statement](design-project-2/project-2-work-statement.md)
     * [Project 2 Production Reports](design-project-2/project-2-production-reports.md)
     * [Project 2 Documentation](design-project-2/project-2-documentation.md)
+    * [Project 2 Files](design-project-2/project-2-files.md)
   * [Writing project](writing-project.md)
 * [License](license.md)
 
