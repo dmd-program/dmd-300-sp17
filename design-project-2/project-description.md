@@ -40,7 +40,7 @@ Futures projects are typically optimistic works that engage with important topic
 ## Schedule
 
 * **Week 7**
-  * Review Project 2
+  * Read Project 2 description
   * Schedule one-on-one discussion with instructor
 * **Week 8**
   * Concept pitch slides are due (Canvas).
