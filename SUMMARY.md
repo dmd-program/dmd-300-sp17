@@ -15,5 +15,6 @@
   * [Design Project 2 ](design-project-2.md)
     * [Project Description](design-project-2/project-description.md)
     * [Schedule](design-project-2/schedule.md)
+  * [Writing project](writing-project.md)
 * [License](license.md)
 

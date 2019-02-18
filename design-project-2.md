@@ -9,31 +9,32 @@ Please have a look at the list of digital design project categories. These categ
 1. Project pitch
 2. Production Reports
 3. Project Image \(Image should represent project\)
-4. Project files for class exhibition of work
-   1. Images, video, PDF Document, executable file download, Zip archive of files, URL of live hosted website \(not a link to a service such as InvisionApp\), production blog URL. 
+4. Project files for class exhibition of work  
+   1. Images, video, PDF Document, executable file download, Zip archive of files, URL of live hosted website \(not a link to a service such as InvisionApp\), production blog URL.
 
-
-
-1. Define a project proposal \(3 weeks\)
-   1. Outcomes
-   2. Context and impact
-   3. Themes
-   4. Scope: What can you do in 6 weeks?
+5. Define a project proposal \(3 weeks\)  
+   1. Outcomes  
+   2. Context and impact  
+   3. Themes  
+   4. Scope: What can you do in 6 weeks?  
    5. Identify a production process and timeline
-2. Identify faculty or industry mentor
+
+6. Identify faculty or industry mentor
+
    * If a group project, it roles and workload must be defined.
-3. Check-ins with mentor
+
+7. Check-ins with mentor
    1. Notes or takeaways from meeting with mentor
    2. Student facilitates meeting by being prepared to show progress and have questions for mentor.
-4. Project deliverables
+8. Project deliverables
    1. Project should either be based on a clearly defined career intention or a well defined concept and theme. Expressive art projects must be well articulated in the project statement.
    2. 500 Word Minimum Statement
    3. Fully functional digital artifacts
    4. PDF Documentation complies with presentation guidelines
-5. Deliver a final presentation and contribution for student exposition of work.
-6. Mimic's capstone project requirements
-7. Presentation quality
-8. Emphasis on presence of design language
+9. Deliver a final presentation and contribution for student exposition of work.
+10. Mimic's capstone project requirements
+11. Presentation quality
+12. Emphasis on presence of design language
 
 ## Peer reviews
 
@@ -124,6 +125,7 @@ Digital Design Project Categories
   * Music video
   * Abstract performance capture
 * Installation or physical design intervention
+  * Physical computing and IoT device
   * Art or design installation proposal
   * Organize design-based event
 
