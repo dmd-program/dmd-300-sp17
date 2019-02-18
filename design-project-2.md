@@ -1,6 +1,6 @@
 # Design Project 2
 
-Design Project 2 is meant to mimic the format of the capstone project, with a bit more feedback along the way. In this project, you will develop a project concept, methodology, documentation of your process, and a presentation of the outcomes. Your work will then be displayed in a class-wide exposition of your work.
+Design Project 2 is meant to mimic the format of the capstone project. In project 1, you tackled a real world issue. In project 2, you will produce an experimental work designed to push your creative  In this project, you will develop a project concept, methodology, documentation of your process, and a presentation of the outcomes. Your work will then be collectively displayed in a class-wide exposition of your work on a website.
 
 1. Define a project proposal \(3 weeks\)
    1. Outcomes
@@ -23,6 +23,7 @@ Design Project 2 is meant to mimic the format of the capstone project, with a bi
 6. Mimic's capstone project requirements
 
 7. Presentation quality
+
 8. Emphasis on presence of design language
 
 ## Peer reviews
@@ -53,22 +54,71 @@ Steps
   * Review project
   * One-on-one discussion with instructor
 * **Week 8**
-  * Complete Project Pitch
+  * Complete [Project Pitch](https://docs.google.com/presentation/d/18axoU6gGRm4WKSymIncrGnDJcreFqxnrvFwj3VT80lI/edit#slide=id.g503a3ef17c_0_40) presentation.
 * **Week 9**
   * Production report \#1
 * **Week 10**
   * Production report \#2
 * **Week 11**
-  * Mid-production Instructor Feedback
+  * Mid-production Instructor Check-in
   * Production report \#3
 * **Week 12**
   * Production report \#4
 * **Week 13**
   * Production report \#5
-* **Week 14**
+* **Week 14 \(March 10\)**
   * Project Deliverables
   * Project 2 Review
   * **Submit:** Self-assessment worksheet
+* **Week 15**
+  * Wrap-up
+
+---
+
+Digital Design Project Categories
+
+* Animation \(2D, 3D\)
+* * Short film
+  * Explainer animation
+  * motion graphics \(bumper animations, commercials, 
+  * Experimental
+  * VJ Loops
+  * Projection Mapping
+* Interactive
+  * AR/VR
+  * Interactive story
+  * Serious Game
+  * Physical game \(printed boards and/or 3D objects\)
+* Product or service
+  * Functional mobile or web app
+  * High fidelity interactive mockups \(UI\)
+  * Speculative or discursive design projects
+  * Comprehensive user Experience \(UX\) Research
+  * Digital fabrication products or prototypes \(furniture, wearables, clothes, structures, etc.\) 
+* 2D or 3D Illustration, rendering, and graphic visualizations
+  * Branding and/or print
+    * Logo design
+    * Web design and/or development
+    * Stationary or merchandise design
+  * Typeface design
+
+  * Illustrations
+    * Comic \(print or web\)
+    * Children's book
+  * Infographics
+  * Architectural renderings
+  * Concept art for pre-production \(character, vehicle, environment design for comics, games, film, etc.\)
+  * Data visualizations
+  * 3D Modelling
+* Audio/Video Production
+  * Abstract or performance film
+  * Short-film
+
+  * Music video
+  * Abstract performance capture
+* Installation or physical design intervention
+  * Art or design installation proposal
+  * Organize design-based event
 
 
 
