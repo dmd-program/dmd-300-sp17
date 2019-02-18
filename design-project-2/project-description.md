@@ -1,14 +1,14 @@
 # Design Project 2
 
-For this project, you will individually produce a critically engaged digital work. You will develop a project concept, methodology, process documentation, and a professional presentation of outcomes. Your work will then be collectively displayed in a class-wide online exhibition of your work.
+For this project, you will produce a digital design work that critically engages with the project's theme. Strengthening your creative interests, you will develop a project concept, methodology, process documentation, and a professional presentation of outcomes. Your work will then be collectively displayed in a class-wide online exhibition accessible by the greater Penn State community.
 
 ## Project title and theme
 
 **Project title template:** "_\[ topic \]_ Futures"
 
-Choose a topic that is meaningful to you and apply it to the theme name template to assemble your project's title. For instance, to create work that engages in discourse of politics, you could create a theme called "Political Futures". If you like, you can choose from the provided sub-themes that further focuses the work's direction.
+Choose a topic that is meaningful to you and apply it to the theme name template to assemble your project's title. For instance, to create work that engages in discourse of politics, you could create a theme called "Political Futures".
 
-Please have a look at the list of digital design project categories.
+If you are unsure of what types of digital projects are available to create, please have a look at the list of digital design project categories.
 
 ## Requirements
 
@@ -40,7 +40,7 @@ All project deliverables must be met for the project to be graded. A non-submiss
 2. Project outcomes: 
    * Concept: 20%
    * Craft: 20%
-   * Participation in online exhibition: 10%
+   * Participation in online exhibition: 20%
 
 
 

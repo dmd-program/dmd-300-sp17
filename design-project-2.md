@@ -23,9 +23,10 @@ Please have a look at the list of digital design project categories. These categ
 
    * If a group project, it roles and workload must be defined.
 
-7. Check-ins with mentor
-   1. Notes or takeaways from meeting with mentor
+7. Check-ins with mentor  
+   1. Notes or takeaways from meeting with mentor  
    2. Student facilitates meeting by being prepared to show progress and have questions for mentor.
+
 8. Project deliverables
    1. Project should either be based on a clearly defined career intention or a well defined concept and theme. Expressive art projects must be well articulated in the project statement.
    2. 500 Word Minimum Statement

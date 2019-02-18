@@ -1,4 +1,4 @@
-# Schedule
+# Project 2 Schedule
 
 * **Week 7**
   * Review project
