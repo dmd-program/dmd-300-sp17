@@ -41,7 +41,10 @@ The concept pitch is a presentation document that serves as a both a communicati
   - List three questions that might help you better some aspect of the project. Avoid vague questions such as, “Is this a good project?” or “What should I do?”. Instead focus your questions on the specific areas of your project that could benefit from feedback. 
 
 
+#### Submission details:
 
+1. Export this presentation as a PDF.
+2. Submit the PDF presentation on canvas and your production blog by the deadline.
 
 
 

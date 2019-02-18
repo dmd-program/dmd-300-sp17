@@ -13,12 +13,12 @@ The statement's use of language should seek a balance of accurate technical term
 4. Describe the process or how you approached solving for the design challenge
 5. Describe the impact the work might have, the context in which it sits, why it's interesting, etc.
 
-## Statement writing advice
+### Statement writing advice
 
 * [Artist Statement Guidelines](https://www.gyst-ink.com/artist-statement-guidelines)
 * [UNSCA](https://www.uncsa.edu/admissions/how-to-write-an-artistic-statement/)
 
-## Helpful terminology
+### Helpful terminology
 
 * [Moma Art Glossary](https://www.moma.org/learn/moma_learning/glossary/)
 * [Technical Design Terminology](https://99designs.com/blog/tips/15-descriptive-design-words-you-should-know/)
@@ -26,12 +26,19 @@ The statement's use of language should seek a balance of accurate technical term
 * [Critical thinking terms](http://www.criticalthinking.org/pages/glossary-of-critical-thinking-terms/496)
 * [Example of a needlessly complex statement and it's translation](http://artspeak.wtf/artists-statement/)
 
-## Artspeak
+### Artspeak
 
 * [International Art English](https://www.canopycanopycanopy.com/contents/international_art_english)
 * [International Disco Latin](https://www.e-flux.com/journal/45/60100/international-disco-latin/)
 * [artspeak.wtf](https://artspeak.wtf/)
 * [The Guardian: A user's guide to artspeak](https://www.theguardian.com/artanddesign/2013/jan/27/users-guide-international-art-english)
+
+## Submission details:
+
+1. Upload the work statement as an MS Word Document to Canvas as indicated deadlines.
+
+
+
 
 
 

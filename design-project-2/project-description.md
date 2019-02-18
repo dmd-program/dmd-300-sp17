@@ -23,30 +23,66 @@ Futures projects are typically optimistic works that engage with important topic
 * [London College of Comm](https://masedi.myblog.arts.ac.uk/tag/global-design-futures/)
 * [Learn2050](http://www.idsa.org/educationpaper/learn2050-and-design-futures)
 
-## Project production
-
-### Project type
-If you are unsure of what types of digital projects are available to create, please have a look at the list of [digital design project types](/digital-design-project-types.md).
-
-### Production process
-
-You will define tools, processes, and methods, and a project timeline for the concept pitch. You will not be prescribed a research
+---
 
 ## Deliverables
 
 1. **[Production blog](/design-project-2/project-2-production-reports.md)** (Canvas)
 2. **[Concept pitch](/design-project-2/project-2-concept-pitch.md)** (Canvas, production blog)
 3. **[Production Reports](/design-project-2/project-2-production-reports.md)** (Production blog)
-4. **[Work statement](/design-project-2/project-2-work-statement.md)** that uses design language (Canvas, production blog)
+4. **[Work statement](/design-project-2/project-2-work-statement.md)** that uses design language (Canvas)
 5. **Project files:** (Canvas)
   1. Any of the following: High quality images, photographs, video, PDF document, executable file for download (macOS and Windows compatible), Zip archive of files, URL of live hosted website \(not a link to a paid web service such as InvisionApp\), production blog URL, etc.
   2. For archival purposes, the files must be as self-contained as possible. (I.E.–if I were to look at them without an Internet connection, would the project still work?)
-6. **[Project documentation](/design-project-2/project-2-documentation.md)**
+6. **[Project documentation](/design-project-2/project-2-documentation.md)** (Canvas, production blog)
 7. **Online exhibition information form:** [Form Link](https://forms.office.com/Pages/ResponsePage.aspx?id=RY30fNs9iUOpwcEVUm61LpKTUYPpqWVNtct2hclEf_pUNkI5Sk9URUNURVg1RTFZOTdHMDQ3TFhVMC4u)
+
+---
+
+## Schedule
+
+* **Week 7**
+  * Review Project 2
+  * Schedule one-on-one discussion with instructor
+* **Week 8**
+  * Concept pitch slides are due (Canvas).
+* **Week 9**
+  * Production Report \#1 due
+* **Week 10**
+  * Production Report \#2 due
+* **Week 11**
+  * Mid-production Instructor Check-in
+  * Work statement draft \#1 due
+  * Production Report \#3 due
+* **Week 12**
+  * Production Report \#4 due
+* **Week 13**
+  * Production Report \#5 due
+  * Work Statement Draft \#2 due
+* **Week 14**
+  * Complete exhibition form
+  * **Submissions:**
+    1. Project Files
+    2. Final Work Statement
+    
+---
+
+## Project production
+
+### Media type
+If you are unsure of what types of digital projects are available to create, please have a look at the list of [digital design project types](/digital-design-project-types.md).
+
+### Production process
+
+You will define tools, processes, and methods, and a project timeline for the concept pitch. You will not be prescribed a research
+
+---
 
 ## Online Exhibition
 
 Exhibitions typically have a central theme—a conceptual thread that links the work together. Exhibition curators contextualize selected works which often ascribes new or additional meaning to the individual works as a result. The online exhibition's theme will be chosen after student projects are completed. DMD 300 online exhibitions are designed to run back to back, and will last until the next cohort of DMD 300 students participate. This makes the exhibition duration somewhat variable, but should not last more than one year and no less than a single semester. Your instructor will coordinate the exhibition, which will be available in two options; a Penn State only online exhibition, and a fully public online exhibition. Students choosing to participate in the fully public exhibition will also have their work shown in the Penn State only exhibition. Students participating in the Penn State only exhibition will not have work shown in the fully public exhibition. The fully public exhibition will be maintained on the DMD program website as an archive after the exhibition has ended—incorporating willing students' work into the program's heritage.
+
+---
 
 ## Rubric
 

@@ -8,9 +8,8 @@
    5. Semester (Example: "Spring 2019")
 2. **Bio**
   - Include a bio that describes relevant interests, skills, and capabilities.
-3. **Summary**
-   * Concept statement: Brief description of topic or design challenge and how it will be approached in a concise opening sentence or paragraph.
-   * Add details including the project's context, outstanding issues, and goals. Include aspects of how the topic is interesting, important, or novel, and how you arrived at these conclusions. What contributions does the project make or intend to make? Does it reimagine, reframe, refactor, re-contextualize, or otherwise perform remix or invention? 
+3. **Work Statement**
+   * Copy in work statement language developed during project 2. 
 4. **Design process overview**
    * Timeline of events
    * List methods used with brief descriptions
@@ -34,5 +33,5 @@
 
 #### Submission details:
 
-Upload the PDF document to the canvas assignment by the due date and time listed.
-
+1. Upload the PDF document to the canvas assignment by the deadline.
+2. Upload PDF to production blog by the deadline.
