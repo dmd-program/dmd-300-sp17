@@ -12,14 +12,16 @@ If you are unsure of what types of digital projects are available to create, ple
 
 ## Requirements
 
-1. You must locate a project 
+1. 500 Word Minimum Work Statement
+3. Fully functional digital artifacts
 
 ## Deliverables
 
 1. Project pitch
 2. Production Reports
 3. Project Submission
-   1. Project files:
+   1. Work statement that uses design language
+   2. Project files:
       * **Any of the following:** High quality images, video, PDF document, executable file for download, Zip archive of files, URL of live hosted website \(not a link to a paid web service such as InvisionApp\), production blog URL, etc.
       * For archival purposes, the files must be as self-contained as possible. If I were to look at them without an Internet connection, would the project still work?
 4. Completed online exhibition information and approval form
