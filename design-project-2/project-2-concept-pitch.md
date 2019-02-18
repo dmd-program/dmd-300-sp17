@@ -34,7 +34,10 @@ The concept pitch is a presentation document that serves as a both a communicati
   - Explain how you will you get up to speed in time.
 9. **Timeline**
   - List steps in the production timeline.
-10. **Questions for your project reviewers**
+10. **Research**
+  - What areas of research do you intend to pursue during the production of this project?
+  - What are your research resources?
+11. **Questions for your project reviewers**
   - List three questions that might help you better some aspect of the project. Avoid vague questions such as, “Is this a good project?” or “What should I do?”. Instead focus your questions on the specific areas of your project that could benefit from feedback. 
 
 
