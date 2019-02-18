@@ -23,30 +23,20 @@ Futures projects are typically optimistic works that engage with important topic
 * [London College of Comm](https://masedi.myblog.arts.ac.uk/tag/global-design-futures/)
 * [Learn2050](http://www.idsa.org/educationpaper/learn2050-and-design-futures)
 
-
 ## Digital media
 
 If you are unsure of what types of digital projects are available to create, please have a look at the list of [digital design project types](/digital-design-project-types.md).
 
-## Requirements
-
-1.  Work Statement
-2. Maintain a project blog. You will post your concept pitch, production updates, and other deliverables here.
-3. Completed digital project according to project theme
-
 ## Deliverables and requirements
 
-1. **[Concept pitch](/design-project-2/project-2-concept-pitch.md)** (Canvas, Project blog)
-2. **[Production Reports](/design-project-2/project-2-production-reports.md)** (Project blog)
-3. **[Work statement](/design-project-2/project-2-work-statement.md)** that uses design language (Canvas, Project blog)
-4. **Completed project files:** (Canvas)
+1. **Project blog** (Canvas)
+2. **[Concept pitch](/design-project-2/project-2-concept-pitch.md)** (Canvas, Project blog)
+3. **[Production Reports](/design-project-2/project-2-production-reports.md)** (Project blog)
+4. **[Work statement](/design-project-2/project-2-work-statement.md)** that uses design language (Canvas, Project blog)
+5. **Completed project files:** (Canvas)
   * Any of the following: High quality images, photographs, video, PDF document, executable file for download (macOS and Windows compatible), Zip archive of files, URL of live hosted website \(not a link to a paid web service such as InvisionApp\), production blog URL, etc.
   * For archival purposes, the files must be as self-contained as possible. (I.E.–if I were to look at them without an Internet connection, would the project still work?)
-5. **Online exhibition information form** (Canvas)
-   1. Desired attribution name for work \(This can be a pseudonym if you do not wish to publish your name\)
-   2. Title of project
-   3. Project description: \(Between 75 and 150 words\)
-   4. Project Image: 1200px by 1200px minimum \(This should be a single image that visually represents the project\)
+6. **Online exhibition information form:** [Form Link](https://forms.office.com/Pages/ResponsePage.aspx?id=RY30fNs9iUOpwcEVUm61LpKTUYPpqWVNtct2hclEf_pUNkI5Sk9URUNURVg1RTFZOTdHMDQ3TFhVMC4u)
 
 ## Online Exhibition
 
