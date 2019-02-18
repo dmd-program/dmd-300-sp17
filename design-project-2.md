@@ -1,6 +1,18 @@
 # Design Project 2
 
-Design Project 2 is meant to mimic the format of the capstone project. In project 1, you tackled a real world issue. In project 2, you will produce an experimental work designed to push your creative  In this project, you will develop a project concept, methodology, documentation of your process, and a presentation of the outcomes. Your work will then be collectively displayed in a class-wide exposition of your work on a website.
+Design Project 2 is meant to mimic the format of the capstone project. In project 1, you tackled a real world issue. In project 2, you will produce an experimental work designed to further develop your concept development and production skills. In this project, you will develop a project concept, methodology, documentation of your process, and a presentation of the outcomes. Your work will then be collectively displayed in a class-wide exposition of your work on a Penn State only website.
+
+Please have a look at the list of digital design project categories. These categories are
+
+## Deliverables
+
+1. Project pitch
+2. Production Reports
+3. Project Image \(Image should represent project\)
+4. Project files for class exhibition of work
+   1. Images, video, PDF Document, executable file download, Zip archive of files, URL of live hosted website \(not a link to a service such as InvisionApp\), production blog URL. 
+
+
 
 1. Define a project proposal \(3 weeks\)
    1. Outcomes
@@ -19,11 +31,8 @@ Design Project 2 is meant to mimic the format of the capstone project. In projec
    3. Fully functional digital artifacts
    4. PDF Documentation complies with presentation guidelines
 5. Deliver a final presentation and contribution for student exposition of work.
-
 6. Mimic's capstone project requirements
-
 7. Presentation quality
-
 8. Emphasis on presence of design language
 
 ## Peer reviews

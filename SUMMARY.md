@@ -13,5 +13,7 @@
 * [Projects](projects.md)
   * [Design Project 1](project-1.md)
   * [Design Project 2 ](design-project-2.md)
+    * [Project Description](design-project-2/project-description.md)
+    * [Schedule](design-project-2/schedule.md)
 * [License](license.md)
 
