@@ -101,7 +101,6 @@ Digital Design Project Categories
     * Web design and/or development
     * Stationary or merchandise design
   * Typeface design
-
   * Illustrations
     * Comic \(print or web\)
     * Children's book
@@ -113,7 +112,6 @@ Digital Design Project Categories
 * Audio/Video Production
   * Abstract or performance film
   * Short-film
-
   * Music video
   * Abstract performance capture
 * Installation or physical design intervention
