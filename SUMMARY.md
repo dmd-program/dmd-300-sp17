@@ -17,6 +17,7 @@
     * [Project 2 Schedule](design-project-2/schedule.md)
     * [Project 2 Concept Pitch](design-project-2/project-2-concept-pitch.md)
     * [Project 2 Work Statement](design-project-2/project-2-work-statement.md)
+    * [Project 2 production reports](design-project-2/project-2-production-reports.md)
   * [Writing project](writing-project.md)
 * [License](license.md)
 
