@@ -66,14 +66,8 @@ Futures projects are typically optimistic works that engage with important topic
     
 ---
 
-## Project production
-
-### Media type
-If you are unsure of what types of digital projects are available to create, please have a look at the list of [digital design project types](/digital-design-project-types.md).
-
-### Production process
-
-You will define tools, processes, and methods, and a project timeline for the concept pitch. You will not be prescribed a research
+## Project media
+If you are unsure of what types of digital projects are available to create, please have a look at the list of [digital design project types](/digital-design-project-types.md). This is not a comprehensive list, but you should be able to locate your own creative interests within.
 
 ---
 
