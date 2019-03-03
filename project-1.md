@@ -30,7 +30,7 @@ The word "nudge" in the design sense refers to small adjustments or changes that
 * Practice developing a design process
 * Practice evaluating and reflecting on the effectiveness of a design process
 * Select and test design methods, techniques, and tools to produce digitally designed, critically engaged, and systemically considered creative explorations and outcomes 
-* Produce a detailed project documentation
+* Produce a detailed project document
 * Practice publishing skills by keeping a [team project blog](http://sites.psu.edu/)
 
 ---
@@ -70,31 +70,33 @@ The word "nudge" in the design sense refers to small adjustments or changes that
     * Submit a report in Canvas
 
 ---
-## Weekly Activity Reports
 
+## Weekly Activity Reports
 
 At the end of each week, you will submit a short report of group project activity. This shows that you understand what each member is contributing and demonstrates your own contributions to the project.
 
 ### Requirements:
 
-1. **Title:** Weekly Report # (e.g. Weekly Report #3)
+1. **Title:** Weekly Report \# \(e.g. Weekly Report \#3\)
 2. **Your Name**
-3. **Group Members:** (names)
+3. **Group Members:** \(names\)
 4. **Activity description**
-  - Your contributions for the week
-  - Describe contributions to the project from each member.
+   * Your contributions for the week
+   * Describe contributions to the project from each member.
 5. **General comments:**
-  - Briefly talk about how things are going. This is the space to complain, brag, comment on challenges you are facing, or talk about things that are going really well.
-  
+   * Briefly talk about how things are going. This is the space to complain, brag, comment on challenges you are facing, or talk about things that are going really well.
+
 ### Rubric
-1. Fullfilled all report requirements. (40%)
-2. Demonstrated significant group or team project contributions. (60%)
+
+1. Fullfilled all report requirements. \(40%\)
+2. Demonstrated significant group or team project contributions. \(60%\)
 
 ### Submission
 
-Please upload this to canvas as either a word document (`.doc`, `.docx`), or written in the text submission field.
+Please upload this to canvas as either a word document \(`.doc`, `.docx`\), or written in the text submission field.
 
 ---
+
 ## Project overview
 
 ### Phase 1: Gather and organize
@@ -229,7 +231,9 @@ This project is graded as a team. All members will receive the same grade. All p
 
 1. Produced and submitted project deliverables according to requirements: 40%
 2. Project outcomes: 
-  * Concept 20
-  * Craft 20
-  * Design process 20
+   * Concept 20
+   * Craft 20
+   * Design process 20
+
+
 
