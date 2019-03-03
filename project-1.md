@@ -231,9 +231,9 @@ This project is graded as a team. All members will receive the same grade. All p
 
 1. Produced and submitted project deliverables according to requirements: 40%
 2. Project outcomes: 
-   * Concept 20
-   * Craft 20
-   * Design process 20
+   * Concept 20%
+   * Craft 20%
+   * Design process 20%
 
 
 
