@@ -8,7 +8,9 @@ The statement's use of language should seek a balance of accurate technical term
 
 Please write the statement using proper grammar, sentence structure, and with complete paragraphs. Do not include the requirements as sections, the writing should flow as a single description of your project.
 
-1. Explain what the project is and how it works.
+1. Name
+2. Project title 
+3. Explain what the project is and how it works.
    1. "This project is an online game for children that teaches players living in war-torn countries how to avoid landmines." 
 2. Describe the type of media used.
 3. Describe the design challenge \(the provocation, or existing problem you hope to tackle\)
